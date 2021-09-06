@@ -1,0 +1,3515 @@
+Suburb	Council_Area
+Abbeyard 	Alpine S  
+Abbotsford 	Yarra C  
+Aberfeldie 	Moonee Valley C  
+Aberfeldy 	Baw Baw S  
+Acheron 	Murrindindi S  
+Ada 	Baw Baw S  
+Adams Estate 	Bass Coast S  
+Addington 	Ballarat C  
+Adelaide Lead 	Central Goldfields S  
+Agnes 	South Gippsland S  
+Ailsa 	Yarriambiack S  
+Aire Valley 	Colac Otway S  
+Aireys Inlet 	Surf Coast S  
+Airly 	Wellington S  
+Airport West 	Moonee Valley C  
+Albacutya 	Hindmarsh S  
+Albacutya 	Yarriambiack S  
+Albanvale 	Brimbank C  
+Albert Park 	Port Phillip C  
+Alberton 	Wellington S  
+Alberton West 	Wellington S  
+Albion 	Brimbank C  
+Alexandra 	Murrindindi S  
+Alfredton 	Ballarat C  
+Allambee 	Baw Baw S  
+Allambee Reserve 	Baw Baw S  
+Allambee Reserve 	Sth Gippsland S  
+Allambee South 	Baw Baw S  
+Allambee South 	South Gippsland S  
+Allans Flat 	Indigo S  
+Allansford 	Moyne S  
+Allansford 	Warrnambool C  
+Allendale 	Hepburn S  
+Allestree 	Glenelg S  
+Alma 	Central Goldfields S  
+Almonds 	Moira S  
+Almurta 	Bass Coast S  
+Alphington 	Darebin C  
+Alphington 	Yarra C  
+Altona 	Hobsons Bay C  
+Altona East 	Hobsons Bay C  
+Altona Meadows 	Hobsons Bay C  
+Altona North 	Hobsons Bay C  
+Alvie 	Colac Otway S  
+Alvie 	Corangamite S  
+Amherst 	Central Goldfields S  
+Amor 	Baw Baw S  
+Amphitheatre 	Pyrenees S  
+Anakie 	Golden Plains S  
+Anakie 	Greater Geelong C  
+Ancona 	Mansfield S  
+Anderson 	Bass Coast S  
+Angip 	Yarriambiack S  
+Anglers Rest 	East Gippsland S  
+Anglesea 	Surf Coast S  
+Annuello 	Swan Hill RC  
+Antwerp 	Hindmarsh S  
+Apollo Bay 	Colac Otway S  
+Appin 	Gannawarra S  
+Appin Park 	Gannawarra S  
+Appin South 	Gannawarra S  
+Appin South 	Loddon S  
+Apsley 	West Wimmera S  
+Arapiles 	Horsham RC  
+Ararat 	Ararat RC  
+Arawata 	South Gippsland S  
+Arbuckle 	Wellington S  
+Arcadia 	Greater Shepparton C  
+Arcadia South 	Strathbogie S  
+Archdale 	Central Goldfields S  
+Archdale 	Northern Grampians S  
+Archdale Junction	Central GoldfieldsS  
+Archdale Junction 	Nthn Grampians S  
+Archerton 	Benalla RC  
+Archerton 	Wangaratta RC  
+Archies Creek 	Bass Coast S  
+Ardeer 	Brimbank C  
+Ardmona 	Greater Shepparton C  
+Areegra 	Yarriambiack S  
+Argyle 	Greater Bendigo C  
+Armadale 	Stonnington C  
+Armstrong 	Ararat RC  
+Arnold 	Loddon S  
+Arnold West 	Loddon S  
+Arthurs Creek 	Nillumbik S  
+Arthurs Seat 	Mornington Pen S  
+Ascot 	Ballarat C  
+Ascot 	Greater Bendigo C  
+Ascot Vale 	Moonee Valley C  
+Ashbourne 	Macedon Ranges S  
+Ashburton 	Boroondara C  
+Ashwood 	Monash C  
+Aspendale 	Kingston C  
+Aspendale Gardens 	Kingston C  
+Athlone 	Baw Baw S  
+Attwood 	Hume C  
+Aubrey 	Yarriambiack S  
+Auburn 	Boroondara C  
+Auburn South 	Boroondara C  
+Auchmore 	Loddon S  
+Avalon 	Greater Geelong C  
+Avenel 	Mitchell S  
+Avenel 	Strathbogie S  
+Avoca 	Pyrenees S  
+Avon Plains 	Northern Grampians S  
+Avondale Heights 	Moonee Valley C  
+Avonmore 	Greater Bendigo C  
+Avonsleigh 	Cardinia S  
+Axe Creek 	Greater Bendigo C  
+Axedale 	Greater Bendigo C  
+Ayrford 	Corangamite S  
+Ayrford 	Moyne S  
+Bacchus Marsh 	Moorabool S  
+Baddaginnie 	Benalla RC  
+Baddaginnie 	Strathbogie S  
+Badger Creek 	Yarra Ranges S  
+Bael Bael 	Gannawarra S  
+Bagshot 	Greater Bendigo C  
+Bagshot North 	Greater Bendigo C  
+Bahgallah 	Glenelg S  
+Bailieston 	Strathbogie S  
+Bairnsdale 	East Gippsland S  
+Bairnsdale East 	East Gippsland S  
+Bakery Hill 	Ballarat C  
+Balaclava 	Port Phillip C  
+Bald Hills 	Ballarat C  
+Bald Hills 	Hepburn S  
+Balintore 	Colac Otway S  
+Ballan 	Moorabool S  
+Ballangeich 	Moyne S  
+Ballapur 	Buloke S  
+Ballarat 	Ballarat C  
+Ballarat East 	Ballarat C  
+Ballendella 	Campaspe S  
+Balliang 	Greater Geelong C  
+Balliang 	Moorabool S  
+Balliang East 	Moorabool S  
+Ballyrogan 	Ararat RC  
+Ballyrogan 	Pyrenees S  
+Balmattum 	Strathbogie S  
+Balmoral 	Southern Grampians S  
+Balnarring 	Mornington Peninsula S  
+Balnarring Beach 	Mornington Pen S  
+Balook 	Latrobe C  
+Balook 	Wellington S  
+Balwyn 	Boroondara C  
+Balwyn North 	Boroondara C  
+Balwyn North 	Whitehorse C  
+Bamawm 	Campaspe S  
+Bamawm Extension 	Campaspe S  
+Bambra 	Surf Coast S  
+Bamganie 	Golden Plains S  
+Bandiana 	Wodonga RC  
+Bangerang 	Yarriambiack S  
+Bangholme 	Greater Dandenong C  
+Bannerton 	Swan Hill RC  
+Bannockburn 	Golden Plains S  
+Banyan 	Buloke S  
+Banyena 	Northern Grampians S  
+Banyenong 	Buloke S  
+Baranduda 	Wodonga RC  
+Bareena 	Greater Geelong C  
+Barfold 	Mount Alexander S  
+Baringhup 	Mount Alexander S  
+Baringhup West 	Mount Alexander S  
+Barjarg 	Benalla RC  
+Barjarg 	Mansfield S  
+Barkers Creek 	Mount Alexander S  
+Barkly 	Northern Grampians S  
+Barkly 	Pyrenees S  
+Barkstead 	Moorabool S  
+Barmah 	Moira S  
+Barnadown 	Greater Bendigo C  
+Barnawartha 	Indigo S  
+Barnawartha North 	Wodonga RC  
+Baromi 	South Gippsland S  
+Barongarook 	Colac Otway S  
+Barongarook West 	Colac Otway S  
+Barrabool 	Surf Coast S  
+Barrakee 	Buloke S  
+Barramunga 	Colac Otway S  
+Barraport 	Loddon S  
+Barraport West 	Loddon S  
+Barrys Reef 	Moorabool S  
+Barunah Park 	Golden Plains S  
+Barwidgee 	Alpine S  
+Barwite 	Mansfield S  
+Barwon Downs 	Colac Otway S  
+Barwon Heads 	Greater Geelong C  
+Basalt 	Hepburn S  
+Bass 	Bass Coast S  
+Batesford 	Golden Plains S  
+Batesford 	Greater Geelong C  
+Bathumi 	Moira S  
+Batman 	Moreland C  
+Baw Baw 	Baw Baw S  
+Baw Baw Village 	Baw Baw S  
+Baxter 	Mornington Peninsula S  
+Bayindeen 	Ararat RC  
+Bayles 	Cardinia S  
+Baynton 	Macedon Ranges S  
+Baynton East 	Macedon Ranges S  
+Bayswater 	Knox C  
+Bayswater North 	Maroondah C  
+Beaconsfield 	Cardinia S  
+Beaconsfield 	Casey C  
+Beaconsfield Upper 	Cardinia S  
+Bealiba 	Central Goldfields S  
+Bealiba 	Loddon S  
+Bearii 	Moira S  
+Bears Lagoon 	Loddon S  
+Beauchamp 	Gannawarra S  
+Beauchamp 	Swan Hill RC  
+Beaufort 	Pyrenees S  
+Beaumaris 	Bayside C  
+Beazleys Bridge 	Nthn Grampians S  
+Beeac 	Colac Otway S  
+Beech Forest 	Colac Otway S  
+Beechworth 	Indigo S  
+Beenak 	Yarra Ranges S  
+Belgrave 	Yarra Ranges S  
+Belgrave Heights 	Yarra Ranges S  
+Belgrave South 	Yarra Ranges S  
+Bell Park 	Greater Geelong C  
+Bell Post Hill 	Greater Geelong C  
+Bellarine 	Greater Geelong C  
+Bellbird Creek 	East Gippsland S  
+Bellbrae 	Surf Coast S  
+Bellbridge 	Towong S  
+Bellellen 	Northern Grampians S  
+Bellfield 	Banyule C  
+Bellfield 	Northern Grampians S  
+Bellfield 	Southern Grampians S  
+Bells Beach 	Surf Coast S  
+Belmont 	Greater Geelong C  
+Bemm River 	East Gippsland S  
+Bena 	South Gippsland S  
+Benalla 	Benalla RC  
+Benambra 	East Gippsland S  
+Benayeo 	West Wimmera S  
+Bend of Islands 	Nillumbik S  
+Bendigo 	Greater Bendigo C  
+Bendigo East 	Greater Bendigo C  
+Bendigo North 	Greater Bendigo C  
+Bendigo West 	Greater Bendigo C  
+Bendoc 	East Gippsland S  
+Bengworden 	East Gippsland S  
+Benjeroop 	Gannawarra S  
+Benloch 	Macedon Ranges S  
+Bennettswood 	Whitehorse C  
+Bennison 	South Gippsland S  
+Bentleigh 	Glen Eira C  
+Bentleigh East 	Glen Eira C  
+Benwerrin 	Surf Coast S  
+Beremboke 	Moorabool S  
+Berrimal 	Loddon S  
+Berringa 	Golden Plains S  
+Berringama 	Towong S  
+Berriwillock 	Buloke S  
+Berrybank 	Corangamite S  
+Berrybank 	Golden Plains S  
+Berrys Creek 	South Gippsland S  
+Berwick 	Casey C  
+Bessiebelle 	Glenelg S  
+Bessiebelle 	Moyne S  
+Bet Bet 	Central Goldfields S  
+Bete Bolong 	East Gippsland S  
+Bete Bolong North 	East Gippsland S  
+Bethanga 	Towong S  
+Betley 	Central Goldfields S  
+Beulah 	Yarriambiack S  
+Beverford 	Swan Hill RC  
+Beveridge 	Mitchell S  
+Beveridge 	Whittlesea C  
+Big Desert (-)	Hindmarsh S  
+Big Desert (-)	Mildura RC  
+Big Desert (-)	West Wimmera S  
+Big Hill 	Greater Bendigo C  
+Big Hill 	Surf Coast S  
+Big Pats Creek 	Yarra Ranges S  
+Biggara 	Towong S  
+Billabong 	Wellington S  
+Bimbourie 	Buloke S  
+Bindi 	East Gippsland S  
+Binginwarri 	South Gippsland S  
+Binginwarri 	Wellington S  
+Bingo Munji 	East Gippsland S  
+Birchip 	Buloke S  
+Birchip West 	Buloke S  
+Birdwoodton 	Mildura RC  
+Birregurra 	Colac Otway S  
+Birregurra 	Surf Coast S  
+Bittern 	Mornington Peninsula S  
+Black Hill 	Ballarat C  
+Black Range (-)	Ararat RC  
+Black Range (-)	Northern Grampians S  
+Black Rock 	Bayside C  
+Blackburn 	Whitehorse C  
+Blackburn North 	Whitehorse C  
+Blackburn South 	Whitehorse C  
+Blackheath 	Horsham RC  
+Blackwarry 	Wellington S  
+Blackwood 	Moorabool S  
+Blackwood Forest 	Bass Coast S  
+Blackwood North 	Hepburn S  
+Blairgowrie 	Mornington Peninsula S  
+Blakeville 	Moorabool S  
+Blampied 	Hepburn S  
+Blind Bight 	Casey C  
+Blowhard 	Ballarat C  
+Bo Peep 	Ballarat C  
+Bo Peep 	Pyrenees S  
+Bobinawarrah 	Wangaratta RC  
+Bochara 	Southern Grampians S  
+Bogong 	Alpine S  
+Boho 	Strathbogie S  
+Boho South 	Benalla RC  
+Boho South 	Strathbogie S  
+Boigbeat 	Buloke S  
+Boinka 	Mildura RC  
+Boisdale 	Wellington S  
+Bolangum 	Northern Grampians S  
+Bolinda 	Macedon Ranges S  
+Bolton 	Swan Hill RC  
+Bolwarra 	Glenelg S  
+Bolwarrah 	Moorabool S  
+Bona Vista 	Baw Baw S  
+Bonang 	East Gippsland S  
+Bonbeach 	Kingston C  
+Bonegilla 	Wodonga RC  
+Boneo 	Mornington Peninsula S  
+Bonnie Doon 	Benalla RC  
+Bonnie Doon 	Mansfield S  
+Bonshaw 	Ballarat C  
+Bookaar 	Corangamite S  
+Boola 	Baw Baw S  
+Boola 	Latrobe C  
+Boolarong 	South Gippsland S  
+Boolarra 	Latrobe C  
+Boolarra 	South Gippsland S  
+Boolarra South 	Latrobe C  
+Boolarra South 	South Gippsland S  
+Boole Poole 	East Gippsland S  
+Boolite 	Yarriambiack S  
+Boomahnoomoonah 	Moira S  
+Boonah 	Surf Coast S  
+Boorcan 	Corangamite S  
+Boorhaman 	Wangaratta RC  
+Boorhaman East 	Wangaratta RC  
+Boorhaman North 	Wangaratta RC  
+Boorolite 	Mansfield S  
+Boorool 	South Gippsland S  
+Boort 	Loddon S  
+Boosey 	Moira S  
+Boralma 	Wangaratta RC  
+Bornes Hill 	Ararat RC  
+Boronia 	Knox C  
+Borung 	Loddon S  
+Bostock Creek 	Corangamite S  
+Boundary Bend 	Swan Hill RC  
+Bowenvale 	Central Goldfields S  
+Boweya 	Benalla RC  
+Boweya 	Wangaratta RC  
+Boweya North 	Moira S  
+Bowmans Forest 	Wangaratta RC  
+Bowser 	Wangaratta RC  
+Box Hill 	Whitehorse C  
+Box Hill North 	Whitehorse C  
+Box Hill South 	Whitehorse C  
+Boxwood 	Benalla RC  
+Boxwood 	Greater Shepparton C  
+Bradford 	Mount Alexander S  
+Bradvale 	Corangamite S  
+Braeside 	Kingston C  
+Branditt 	Greater Shepparton C  
+Brandy Creek 	Baw Baw S  
+Branxholme 	Glenelg S  
+Branxholme 	Southern Grampians S  
+Bravington 	Baw Baw S  
+Braybrook 	Maribyrnong C  
+Breakaway Creek 	Glenelg S  
+Breakwater 	Greater Geelong C  
+Breakwater Creek 	Moyne S  
+Breamlea 	Greater Geelong C  
+Breamlea 	Surf Coast S  
+Brenanah 	Loddon S  
+Brewster 	Pyrenees S  
+Briagolong 	Wellington S  
+Briar Hill 	Banyule C  
+Briar Hill 	Nillumbik S  
+Bridge Creek 	Benalla RC  
+Bridge Creek 	Mansfield S  
+Bridge Inn 	Northern Grampians S  
+Bridgewater 	Loddon S  
+Bridgewater North 	Loddon S  
+Bridgewater on London 	Loddon S  
+Bright 	Alpine S  
+Brighton 	Bayside C  
+Brighton East 	Bayside C  
+Brighton East 	Glen Eira C  
+Brim 	Yarriambiack S  
+Brimboal 	Glenelg S  
+Brimin 	Indigo S  
+Brimpaen 	Horsham RC  
+Brimpaen 	Northern Grampians S  
+Bringalbert 	West Wimmera S  
+Brit Brit 	Southern Grampians S  
+Broadford 	Mitchell S  
+Broadlands 	East Gippsland S  
+Broadmeadows 	Hume C  
+Broadwater 	Moyne S  
+Brodribb River 	East Gippsland S  
+Broken Creek 	Benalla RC  
+Bromley 	Central Goldfields S  
+Brookfield 	Melton S  
+Brooklyn 	Brimbank C  
+Brooklyn 	Hobsons Bay C  
+Brooklyn 	Maribyrnong C  
+Brookville 	East Gippsland S  
+Broomfield 	Hepburn S  
+Broughton 	Hindmarsh S  
+Broughton 	West Wimmera S  
+Brown Hill 	Ballarat C  
+Browns Plains 	Indigo S  
+Bruarong 	Indigo S  
+Bruces Creek 	Whittlesea C  
+Brucknell 	Corangamite S  
+Brucknell 	Moyne S  
+Brunswick 	Moreland C  
+Brunswick East 	Moreland C  
+Brunswick West 	Moreland C  
+Bruthen 	East Gippsland S  
+Buangor 	Ararat RC  
+Buangor 	Pyrenees S  
+Buchan 	East Gippsland S  
+Buchan South 	East Gippsland S  
+Buckland 	Alpine S  
+Buckley 	Surf Coast S  
+Buckley Swamp 	Sthn Grampians S  
+Buckrabanyule 	Buloke S  
+Buckrabanyule 	Loddon S  
+Budgee Budgee 	Wellington S  
+Budgeree 	Latrobe C  
+Budgerum East 	Gannawarra S  
+Buffalo 	South Gippsland S  
+Buffalo Creek 	Alpine S  
+Buffalo River 	Alpine S  
+Bulart 	Southern Grampians S  
+Buldah 	East Gippsland S  
+Bulga 	Swan Hill RC  
+Bulgana 	Northern Grampians S  
+Bulla 	Hume C  
+Bullaharre 	Corangamite S  
+Bullarook 	Hepburn S  
+Bullarook 	Moorabool S  
+Bullarto 	Hepburn S  
+Bullarto South 	Hepburn S  
+Bullarto South 	Moorabool S  
+Bulleen 	Manningham C  
+Bullengarook 	Macedon Ranges S  
+Bullioh 	Towong S  
+Bullumwaal 	East Gippsland S  
+Buln Buln 	Baw Baw S  
+Buln Buln East 	Baw Baw S  
+Bumberrah 	East Gippsland S  
+Bunbartha 	Greater Shepparton C  
+Bundalaguah 	Wellington S  
+Bundalong 	Moira S  
+Bundalong South 	Moira S  
+Bundara 	East Gippsland S  
+Bunding 	Moorabool S  
+Bundoora 	Banyule C  
+Bundoora 	Darebin C  
+Bundoora 	Whittlesea C  
+Bung Bong 	Central Goldfields S  
+Bung Bong 	Pyrenees S  
+Bungador 	Colac Otway S  
+Bungal 	Moorabool S  
+Bungalally 	Horsham RC  
+Bungaree 	Moorabool S  
+Bungeet 	Benalla RC  
+Bungeet West 	Benalla RC  
+Bungil 	Towong S  
+Bunguluke 	Buloke S  
+Buninyong 	Ballarat C  
+Buninyong 	Moorabool S  
+Bunkers Hill 	Ballarat C  
+Bunyip 	Cardinia S  
+Bunyip North 	Cardinia S  
+Buragwonduc 	Wellington S  
+Burkes Bridge 	Gannawarra S  
+Burkes Flat 	Loddon S  
+Burnbank 	Pyrenees S  
+Burnewang 	Campaspe S  
+Burnley 	Yarra C  
+Burnside 	Melton S  
+Burnside Heights 	Melton S  
+Burramine 	Moira S  
+Burramine South 	Moira S  
+Burrowyne 	Towong S  
+Burrumbeet 	Ballarat C  
+Burrumbeet 	Pyrenees S  
+Burwood 	Boroondara C  
+Burwood 	Monash C  
+Burwood 	Whitehorse C  
+Burwood East 	Whitehorse C  
+Bushfield 	Moyne S  
+Bushfield 	Warrnambool C  
+Bushy Park 	Wellington S  
+Butchers Ridge 	East Gippsland S  
+Buxton 	Murrindindi S  
+Byaduk 	Glenelg S  
+Byaduk 	Moyne S  
+Byaduk 	Southern Grampians S  
+Byaduk North 	Sthn Grampians S  
+Byawatha 	Wangaratta RC  
+Bylands 	Macedon Ranges S  
+Bylands 	Mitchell S  
+Byrneside 	Greater Shepparton C  
+Cabanandra 	East Gippsland S  
+Cabarita 	Mildura RC  
+Cabbage Tree 	Hepburn S  
+Cabbage Tree Creek 	East Gippsland S  
+Cairnlea 	Brimbank C  
+Calder Park 	Brimbank C  
+Caldermeade 	Cardinia S  
+California Gully 	Greater Bendigo C  
+Calivil 	Loddon S  
+Callawadda 	Northern Grampians S  
+Callignee 	Latrobe C  
+Callignee North 	Wellington S  
+Callignee South 	Wellington S  
+Calrossie 	Wellington S  
+Calulu 	East Gippsland S  
+Cambarville 	Yarra Ranges S  
+Camberwell 	Boroondara C  
+Camberwell East 	Boroondara C  
+Cambrian Hill 	Golden Plains S  
+Campaspe West 	Campaspe S  
+Campbellfield 	Hume C  
+Campbells Bridge 	Nthn Grampians S  
+Campbells Creek 	Mt Alexander S  
+Campbells Forest 	Loddon S  
+Campbelltown 	Central Goldfields S  
+Campbelltown 	Hepburn S  
+Campbelltown 	Mount Alexander S  
+Camperdown 	Corangamite S  
+Canadian 	Ballarat C  
+Canary Island 	Loddon S  
+Caniambo 	Greater Shepparton C  
+Cann River 	East Gippsland S  
+Cannie 	Gannawarra S  
+Cannons Creek 	Casey C  
+Cannum 	Yarriambiack S  
+Canterbury 	Boroondara C  
+Cape Bridgewater 	Glenelg S  
+Cape Clear 	Golden Plains S  
+Cape Conran 	East Gippsland S  
+Cape Otway 	Colac Otway S  
+Cape Paterson 	Bass Coast S  
+Cape Schanck 	Mornington Pen S  
+Cape Woolamai 	Bass Coast S  
+Capels Crossing 	Gannawarra S  
+Carag Carag 	Campaspe S  
+Caralulup 	Central Goldfields S  
+Caramut 	Moyne S  
+Caramut 	Southern Grampians S  
+Carapooee 	Northern Grampians S  
+Carapooee West 	Nthn Grampians S  
+Carapook 	Glenelg S  
+Carapook 	Southern Grampians S  
+Carboor 	Wangaratta RC  
+Cardigan 	Ballarat C  
+Cardigan Village 	Ballarat C  
+Cardinia 	Cardinia S  
+Cardross 	Mildura RC  
+Cargerie 	Moorabool S  
+Carina 	Mildura RC  
+Caringal 	Baw Baw S  
+Carisbrook 	Central Goldfields S  
+Carisbrook 	Mount Alexander S  
+Carlisle River 	Colac Otway S  
+Carlisle River 	Corangamite S  
+Carlsruhe 	Macedon Ranges S  
+Carlton 	Melbourne C  
+Carlton North 	Melbourne C  
+Carlton North 	Yarra C  
+Carlyle 	Indigo S  
+Carnegie 	Glen Eira C  
+Carngham 	Pyrenees S  
+Caroline Springs 	Melton S  
+Carpendeit 	Colac Otway S  
+Carpendeit 	Corangamite S  
+Carrajung 	Wellington S  
+Carrajung Lower 	Wellington S  
+Carrajung South 	Wellington S  
+Carranballac 	Ararat RC  
+Carranballac 	Pyrenees S  
+Carron 	Buloke S  
+Carrum 	Kingston C  
+Carrum Downs 	Frankston C  
+Carwarp 	Mildura RC  
+Cashmore 	Glenelg S  
+Cassilis 	East Gippsland S  
+Castella 	Murrindindi S  
+Casterton 	Glenelg S  
+Castle Creek 	Wodonga RC  
+Castle Donnington 	Swan Hill RC  
+Castleburn 	Wellington S  
+Castlemaine 	Mount Alexander S  
+Catani 	Cardinia S  
+Cathcart 	Ararat RC  
+Cathkin 	Murrindindi S  
+Catumnal 	Loddon S  
+Caulfield 	Glen Eira C  
+Caulfield East 	Glen Eira C  
+Caulfield North 	Glen Eira C  
+Caulfield South 	Glen Eira C  
+Caveat 	Murrindindi S  
+Cavendish 	Southern Grampians S  
+Ceres 	Greater Geelong C  
+Chadstone 	Monash C  
+Chandlers Creek 	East Gippsland S  
+Chapel Flat 	Ballarat C  
+Chapple Vale 	Colac Otway S  
+Chapple Vale 	Corangamite S  
+Charam 	West Wimmera S  
+Charleroi 	Indigo S  
+Charlton 	Buloke S  
+Chatsworth 	Ararat RC  
+Chatsworth 	Moyne S  
+Chelsea 	Kingston C  
+Chelsea Heights 	Kingston C  
+Cheltenham 	Bayside C  
+Cheltenham 	Kingston C  
+Chepstowe 	Pyrenees S  
+Cherokee 	Macedon Ranges S  
+Cherrilong 	Wellington S  
+Cherrypool 	Northern Grampians S  
+Cherrypool 	Southern Grampians S  
+Cheshunt 	Wangaratta RC  
+Cheshunt South 	Wangaratta RC  
+Chesney Vale 	Benalla RC  
+Chetwynd 	Glenelg S  
+Chetwynd 	West Wimmera S  
+Cheviot 	Murrindindi S  
+Chewton 	Mount Alexander S  
+Chewton Bushlands 	Mt Alexander S  
+Childers 	Baw Baw S  
+Chillingollah 	Swan Hill RC  
+Chiltern 	Indigo S  
+Chiltern Valley 	Indigo S  
+Chinangin 	Swan Hill RC  
+Chinkapook 	Swan Hill RC  
+Chintin 	Macedon Ranges S  
+Chirnside Park 	Yarra Ranges S  
+Chirrup 	Buloke S  
+Chocolyn 	Corangamite S  
+Christies 	Wellington S  
+Christmas Hills 	Nillumbik S  
+Chum Creek 	Yarra Ranges S  
+Churchill 	Latrobe C  
+Churchill Island 	Bass Coast S  
+Chute 	Pyrenees S  
+Clarendon 	Moorabool S  
+Claretown 	Moorabool S  
+Clarinda 	Kingston C  
+Clarkefield 	Hume C  
+Clarkefield 	Macedon Ranges S  
+Clarkes Hill 	Moorabool S  
+Clayton 	Monash C  
+Clayton South 	Kingston C  
+Clear Lake 	Horsham RC  
+Clematis 	Cardinia S  
+Clematis 	Yarra Ranges S  
+Clifton Creek 	East Gippsland S  
+Clifton Hill 	Yarra C  
+Clifton Springs 	Greater Geelong C  
+Clonbinane 	Mitchell S  
+Clover Flat 	Glenelg S  
+Clover Flat 	Southern Grampians S  
+Cloverlea 	Baw Baw S  
+Club Terrace 	East Gippsland S  
+Clunes 	Hepburn S  
+Clyde 	Casey C  
+Clyde North 	Casey C  
+Clydebank 	Wellington S  
+Clydesdale 	Hepburn S  
+Coalville 	Baw Baw S  
+Coatesville 	Glen Eira C  
+Cobains 	Wellington S  
+Cobaw 	Macedon Ranges S  
+Cobbannah 	East Gippsland S  
+Cobberas 	East Gippsland S  
+Cobden 	Corangamite S  
+Cobram 	Moira S  
+Cobram East 	Moira S  
+Cobrico 	Corangamite S  
+Cobungra 	Alpine S  
+Cobungra 	East Gippsland S  
+Coburg 	Darebin C  
+Coburg 	Moreland C  
+Coburg North 	Darebin C  
+Coburg North 	Moreland C  
+Cocamba 	Swan Hill RC  
+Cochranes Creek 	Loddon S  
+Cockatoo 	Cardinia S  
+Cocoroc 	Wyndham C  
+Codrington 	Moyne S  
+Coghills Creek 	Ballarat C  
+Cohuna 	Gannawarra S  
+Coimadai 	Moorabool S  
+Cokum 	Buloke S  
+Colac 	Colac Otway S  
+Colac Colac 	Towong S  
+Colac East 	Colac Otway S  
+Colac West 	Colac Otway S  
+Colbinabbin 	Campaspe S  
+Colbrook 	Moorabool S  
+Coldstream 	Yarra Ranges S  
+Coleraine 	Southern Grampians S  
+Colignan 	Mildura RC  
+Collingwood 	Yarra C  
+Colliver 	Greater Shepparton C  
+Combienbar 	East Gippsland S  
+Concongella 	Northern Grampians S  
+Condah 	Glenelg S  
+Condah Swamp 	Moyne S  
+Congupna 	Greater Shepparton C  
+Connewarre 	Greater Geelong C  
+Connewarre 	Surf Coast S  
+Connewirrecoo 	West Wimmera S  
+Coojar 	Southern Grampians S  
+Coolaroo 	Hume C  
+Cooma 	Greater Shepparton C  
+Coomboona 	Greater Shepparton C  
+Coomoora 	Hepburn S  
+Coongulla 	Wellington S  
+Coonooer Bridge 	Buloke S  
+Coonooer Bridge 	Loddon S  
+Coonooer Bridge 	Nthn Grampians S  
+Coonooer West 	Nthn Grampians S  
+Coopers Creek 	Baw Baw S  
+Cooriemungle 	Corangamite S  
+Cope Cope 	Buloke S  
+Cope Cope 	Northern Grampians S  
+Cora Lynn 	Cardinia S  
+Corack 	Buloke S  
+Corack East 	Buloke S  
+Coragulac 	Colac Otway S  
+Coral Bank 	Alpine S  
+Corindhap 	Golden Plains S  
+Corinella 	Bass Coast S  
+Corio 	Greater Geelong C  
+Corndale 	Glenelg S  
+Cornella 	Campaspe S  
+Cornishtown 	Indigo S  
+Coronet Bay 	Bass Coast S  
+Corop 	Campaspe S  
+Cororooke 	Colac Otway S  
+Corringle 	East Gippsland S  
+Corryong 	Towong S  
+Corunnun 	Colac Otway S  
+Cosgrove 	Greater Shepparton C  
+Cosgrove South 	Gr Shepparton C  
+Costerfield 	Greater Bendigo C  
+Cotham 	Boroondara C  
+Cotswold 	Central Goldfields S  
+Cottles Bridge 	Nillumbik S  
+Cowa 	Wellington S  
+Cowangie 	Mildura RC  
+Cowes 	Bass Coast S  
+Cowleys Creek 	Corangamite S  
+Cowwarr 	Latrobe C  
+Cowwarr 	Wellington S  
+Craigie 	Central Goldfields S  
+Craigieburn 	Hume C  
+Cranbourne 	Casey C  
+Cranbourne East 	Casey C  
+Cranbourne North 	Casey C  
+Cranbourne South 	Casey C  
+Cranbourne West 	Casey C  
+Creek Junction 	Benalla RC  
+Creek Junction 	Mansfield S  
+Creek Junction 	Strathbogie S  
+Creek View 	Campaspe S  
+Creighton 	Strathbogie S  
+Creightons Creek 	Strathbogie S  
+Cresmorne 	Yarra C  
+Cressy 	Colac Otway S  
+Cressy 	Corangamite S  
+Cressy 	Golden Plains S  
+Creswick 	Ballarat C  
+Creswick 	Hepburn S  
+Creswick North 	Hepburn S  
+Crib Point 	Mornington Peninsula S  
+Cromer 	Bayside C  
+Crookayan 	Wellington S  
+Crooked River 	Wellington S  
+Cross Roads 	Pyrenees S  
+Crossley 	Moyne S  
+Crossover 	Baw Baw S  
+Crowlands 	Ararat RC  
+Crowlands 	Northern Grampians S  
+Crowlands 	Pyrenees S  
+Croxton East 	Southern Grampians S  
+Croydon 	Maroondah C  
+Croydon Hills 	Maroondah C  
+Croydon North 	Maroondah C  
+Croydon South 	Maroondah C  
+Crymelon 	Hindmarsh S  
+Crymelon 	Yarriambiack S  
+Cudgee 	Moyne S  
+Cudgewa 	Towong S  
+Culgoa 	Buloke S  
+Culla 	Southern Grampians S  
+Cullen 	Gannawarra S  
+Cullulleraine 	Mildura RC  
+Cundare 	Colac Otway S  
+Cundare North 	Colac Otway S  
+Cundare North 	Corangamite S  
+Curdie Vale 	Corangamite S  
+Curdie Vale 	Moyne S  
+Curdies River 	Corangamite S  
+Curlewis 	Greater Geelong C  
+Curyo 	Buloke S  
+Dadswells Bridge 	Horsham RC  
+Dadswells Bridge 	Nthn Grampians S  
+Daisy Hill 	Central Goldfields S  
+Dales Creek 	Moorabool S  
+Dallas 	Hume C  
+Dalmore 	Cardinia S  
+Daltons Bridge 	Gannawarra S  
+Dalyenong (-)	Northern Grampians S  
+Dalyston 	Bass Coast S  
+Dandenong 	Greater Dandenong C  
+Dandenong North 	Gr Dandenong C  
+Dandenong South 	Gr Dandenong C  
+Dandongadale 	Alpine S  
+Dargo 	Alpine S  
+Dargo 	Wellington S  
+Darkbonee 	Northern Grampians S  
+Darley 	Moorabool S  
+Darlimurla 	Latrobe C  
+Darlimurla 	South Gippsland S  
+Darlington 	Corangamite S  
+Darlington 	Moyne S  
+Darnum 	Baw Baw S  
+Darraweit Guim 	Macedon Ranges S  
+Darriman 	Wellington S  
+Dartmoor 	Glenelg S  
+Dartmouth 	East Gippsland S  
+Dartmouth 	Towong S  
+Dawson 	Wellington S  
+Daylesford 	Hepburn S  
+Dean 	Hepburn S  
+Deans Marsh 	Surf Coast S  
+Deddick Valley 	East Gippsland S  
+Dederang 	Alpine S  
+Deep Lead 	Northern Grampians S  
+Deer Park 	Brimbank C  
+Delacombe 	Ballarat C  
+Delahey 	Brimbank C  
+Delatite 	Mansfield S  
+Delburn 	Baw Baw S  
+Delburn 	Latrobe C  
+Delburn 	South Gippsland S  
+Delegate River East 	  East Gippsland S  
+Dellicknora 	East Gippsland S  
+Dendy 	Bayside C  
+Denicull Creek 	Ararat RC  
+Denison 	Wellington S  
+Dennington 	Moyne S  
+Dennington 	Warrnambool C  
+Denver 	Hepburn S  
+Denver 	Macedon Ranges S  
+Deptford 	East Gippsland S  
+Derby 	Loddon S  
+Dereel 	Golden Plains S  
+Dergholm 	Glenelg S  
+Dergholm 	West Wimmera S  
+Derrimut 	Brimbank C  
+Derrinal 	Greater Bendigo C  
+Derrinallum 	Corangamite S  
+Devenish 	Benalla RC  
+Devils River 	Murrindindi S  
+Devon Meadows 	Casey C  
+Devon North 	Wellington S  
+Dewhurst 	Cardinia S  
+Dhurringile 	Greater Shepparton C  
+Diamond Creek 	Nillumbik S  
+Diamond Hill 	Greater Bendigo C  
+Digby 	Glenelg S  
+Diggers Rest 	Hume C  
+Diggers Rest 	Melton S  
+Diggora 	Campaspe S  
+Dimboola 	Hindmarsh S  
+Dingee 	Campaspe S  
+Dingee 	Loddon S  
+Dingley Village 	Kingston C  
+Dingwall 	Gannawarra S  
+Dinner Plain 	Alpine S  
+Dixie 	Corangamite S  
+Dixons Creek 	Yarra Ranges S  
+Dobie 	Ararat RC  
+Docker 	Wangaratta RC  
+Dockers Plains 	Wangaratta RC  
+Docklands 	Melbourne C  
+Doctors Flat 	East Gippsland S  
+Dollar 	South Gippsland S  
+Don Valley 	Yarra Ranges S  
+Donald 	Buloke S  
+Doncaster 	Manningham C  
+Doncaster East 	Manningham C  
+Donnybrook 	Whittlesea C  
+Donvale 	Manningham C  
+Dooboobetic 	Buloke S  
+Dooen 	Horsham RC  
+Dookie 	Greater Shepparton C  
+Dookie College 	Gr Shepparton C  
+Doreen 	Nillumbik S  
+Doreen 	Whittlesea C  
+Dorodong 	West Wimmera S  
+Double Bridges 	East Gippsland S  
+Douglas 	Horsham RC  
+Douglas 	West Wimmera S  
+Doveton 	Casey C  
+Dreeite 	Colac Otway S  
+Dreeite 	Corangamite S  
+Dreeite South 	Colac Otway S  
+Dreeite South 	Corangamite S  
+Driffield 	Baw Baw S  
+Driffield 	Latrobe C  
+Drik Drik 	Glenelg S  
+Dromana 	Mornington Peninsula S  
+Dropmore 	Murrindindi S  
+Drouin 	Baw Baw S  
+Drouin East 	Baw Baw S  
+Drouin South 	Baw Baw S  
+Drouin West 	Baw Baw S  
+Drumanure 	Moira S  
+Drumborg 	Glenelg S  
+Drumcondra 	Greater Geelong C  
+Drummartin 	Campaspe S  
+Drummartin 	Greater Bendigo C  
+Drummond 	Hepburn S  
+Drummond 	Macedon Ranges S  
+Drummond North 	Hepburn S  
+Drummond North 	Macedon Ranges S  
+Drummond North 	Mt Alexander S  
+Drung 	Horsham RC  
+Dry Diggings 	Hepburn S  
+Drysdale 	Greater Geelong C  
+Duchembegarra 	Horsham RC  
+Dudley South 	Bass Coast S  
+Dumbalk 	South Gippsland S  
+Dumbalk North 	South Gippsland S  
+Dumosa 	Buloke S  
+Dunach 	Central Goldfields S  
+Dunach 	Hepburn S  
+Dundonnell 	Moyne S  
+Dunearn 	Greater Dandenong C  
+Dunkeld 	Ararat RC  
+Dunkeld 	Southern Grampians S  
+Dunkirk 	Greater Shepparton C  
+Dunluce 	Central Goldfields S  
+Dunneworthy 	Ararat RC  
+Dunneworthy 	Nthn Grampians S  
+Dunnstown 	Moorabool S  
+Dunolly 	Central Goldfields S  
+Dunolly 	Loddon S  
+Dunrobin 	Glenelg S  
+Durdidwarrah 	Golden Plains S  
+Durham Lead 	Ballarat C  
+Durham Lead 	Golden Plains S  
+Durham Lead 	Moorabool S  
+Durham Ox 	Loddon S  
+Dutson 	Wellington S  
+Dutson Downs 	Wellington S  
+Dutton Way 	Glenelg S  
+Duverney 	Corangamite S  
+Dysart 	Mitchell S   
+Eagle Point 	East Gippsland S  
+Eaglehawk 	Greater Bendigo C  
+Eaglehawk North 	Gr Bendigo C  
+Eaglemont 	Banyule C  
+Earlston 	Strathbogie S  
+East Melbourne 	Melbourne C  
+Eastern View 	Surf Coast S  
+Eastville 	Loddon S  
+Eastville 	Mount Alexander S  
+Ebden 	Wodonga RC  
+Echuca 	Campaspe S  
+Echuca Village 	Campaspe S  
+Echuca West 	Campaspe S  
+Ecklin South 	Corangamite S  
+Ecklin South 	Moyne S  
+Eddington 	Central Goldfields S  
+Eddington 	Loddon S  
+Eddington 	Mount Alexander S  
+Eden Park 	Whittlesea C  
+Edenhope 	West Wimmera S  
+Edgecombe 	Macedon Ranges S  
+Edi 	Wangaratta RC  
+Edi Upper 	Wangaratta RC  
+Edithvale 	Kingston C  
+Eganstown 	Hepburn S  
+Eildon 	Mansfield S  
+Eildon 	Murrindindi S  
+Elaine 	Moorabool S  
+Elberton 	Northern Grampians S  
+Eldorado 	Wangaratta RC  
+Elevated Plains 	Hepburn S  
+Elingamite 	Corangamite S  
+Elingamite North 	Corangamite S  
+Ellaswood 	East Gippsland S  
+Ellerslie 	Moyne S  
+Elliminyt 	Colac Otway S  
+Ellinbank 	Baw Baw S  
+Elmhurst 	Ararat RC  
+Elmhurst 	Pyrenees S  
+Elmore 	Campaspe S  
+Elmore 	Greater Bendigo C  
+Elphinstone 	Mount Alexander S  
+Elsternwick 	Glen Eira C  
+Eltham 	Banyule C  
+Eltham 	Nillumbik S  
+Eltham North 	Banyule C  
+Eltham North 	Nillumbik S  
+Elwood 	Port Phillip C  
+Emerald 	Cardinia S  
+Emerald 	Yarra Ranges S  
+Emu 	Central Goldfields S  
+Emu 	Loddon S  
+Emu 	Northern Grampians S  
+Emu Creek 	Greater Bendigo C  
+Emu Flat 	Mitchell S  
+Endeavour Hills 	Casey C  
+Enfield 	Golden Plains S  
+Englefield 	Southern Grampians S  
+Ensay 	East Gippsland S  
+Ensay North 	East Gippsland S  
+Eppalock 	Greater Bendigo C  
+Epping 	Whittlesea C  
+Epsom 	Greater Bendigo C  
+Ercildoune 	Ballarat C  
+Ercildoune 	Pyrenees S  
+Erica 	Baw Baw S  
+Erinunderra 	East Gippsland S  
+Eskdale 	Towong S  
+Esmond 	Moira S  
+Essendon 	Moonee Valley C  
+Essendon North 	Moonee Valley C  
+Essendon West 	Moonee Valley C  
+Eumemmerring 	Casey C  
+Eurack 	Colac Otway S  
+Eureka 	Ballarat C  
+Euroa 	Strathbogie S  
+Eurobin 	Alpine S  
+Evansford 	Hepburn S  
+Evansford 	Pyrenees S  
+Eversley 	Ararat RC  
+Eversley 	Pyrenees S  
+Everton 	Wangaratta RC  
+Everton Upper 	Wangaratta RC  
+Exford 	Melton S  
+Eynesbury 	Melton S  
+Eynesbury 	Wyndham C  
+Fairbank 	South Gippsland S  
+Fairfield 	Darebin C  
+Fairfield 	Yarra C  
+Fairhaven 	Surf Coast S  
+Fairley 	Gannawarra S  
+Fairy Dell 	Campaspe S  
+Fairy Dell 	East Gippsland S  
+Falls Creek 	Alpine S  
+Faraday 	Mount Alexander S  
+Fawcett 	Murrindindi S  
+Fawkner 	Hume C  
+Fawkner 	Moreland C  
+Fentons Creek 	Loddon S  
+Ferguson 	Colac Otway S  
+Fern Hill 	Hepburn S  
+Fern Hill 	Macedon Ranges S  
+Fernbank 	East Gippsland S  
+Fernbank 	Wellington S  
+Ferndale 	Baw Baw S  
+Fernihurst 	Loddon S  
+Fernshaw 	Yarra Ranges S  
+Ferntree Gully 	Knox C  
+Ferny Creek 	Yarra Ranges S  
+Fiery Flat 	Loddon S  
+Fingal 	Mornington Peninsula S  
+Fish Creek 	South Gippsland S  
+Fish Point 	Swan Hill RC  
+Fiskville 	Moorabool S  
+Fitzroy 	Yarra C  
+Fitzroy North 	Moreland C  
+Fitzroy North 	Yarra C  
+Flaggy Creek 	East Gippsland S  
+Flagstaff 	Central Goldfields S  
+Flamingo Beach 	Wellington S  
+Flemington 	Melbourne C  
+Flemington 	Moonee Valley C  
+Flinders 	Mornington Peninsula S  
+Flora Hill 	Greater Bendigo C  
+Flowerdale 	Mitchell S  
+Flowerdale 	Murrindindi S  
+Flynn 	Latrobe C  
+Flynn 	Wellington S  
+Flynns Creek 	Latrobe C  
+Flynns Creek 	Wellington S  
+Footscray 	Maribyrnong C  
+Footscray West 	Maribyrnong C  
+Forbes 	Mitchell S  
+Forest Hill 	Whitehorse C  
+Forge Creek 	East Gippsland S  
+Forrest 	Colac Otway S  
+Foster 	South Gippsland S  
+Foster North 	South Gippsland S  
+Fosterville 	Greater Bendigo C  
+Fountain Gate 	Casey C  
+Foxhow 	Corangamite S  
+Framlingham 	Moyne S  
+Framlingham East 	Moyne S  
+Franklinford 	Hepburn S  
+Franklinford 	Mount Alexander S  
+Frankston 	Frankston C  
+Frankston North 	Frankston C  
+Frankston South 	Frankston C  
+Freeburgh 	Alpine S  
+Frenchmans 	Pyrenees S  
+Freshwater Creek 	Surf Coast S  
+Fryerstown 	Mount Alexander S  
+Fulham 	Wellington S  
+Fumina 	Baw Baw S  
+Fumina South 	Baw Baw S  
+Fyans Creek 	Northern Grampians S  
+Fyansford 	Greater Geelong C  
+Gaffneys Creek 	Mansfield S  
+Gainsborough 	Baw Baw S  
+Gannawarra 	Gannawarra S  
+Gapsted 	Alpine S  
+Garden City 	Port Phillip C  
+Gardenvale 	Glen Eira C  
+Garfield 	Cardinia S  
+Garfield North 	Cardinia S  
+Garibaldi 	Golden Plains S  
+Garvoc 	Corangamite S  
+Garvoc 	Moyne S  
+Gateway Island 	Wodonga RC  
+Gatum 	Southern Grampians S  
+Gazette 	Moyne S  
+Gazette 	Southern Grampians S  
+Geelong 	Greater Geelong C  
+Geelong East 	Greater Geelong C  
+Geelong North 	Greater Geelong C  
+Geelong South 	Greater Geelong C  
+Geelong West 	Greater Geelong C  
+Gelantipy 	East Gippsland S  
+Gellibrand 	Colac Otway S  
+Gellibrand Lower 	Colac Otway S  
+Gellibrand Lower 	Corangamite S  
+Gelliondale 	Wellington S  
+Gembrook 	Cardinia S  
+Genoa 	East Gippsland S  
+Gentle Annie 	Baw Baw S  
+Georges Creek 	Towong S  
+Gerahmin 	Swan Hill RC  
+Gerang Gerung 	Hindmarsh S  
+Gerangamete 	Colac Otway S  
+Germania 	Northern Grampians S  
+Germantown 	Alpine S  
+Gerrigerrup 	Moyne S  
+Gherang 	Surf Coast S  
+Gheringhap 	Golden Plains S  
+Ghin Ghin 	Murrindindi S  
+Giffard 	Wellington S  
+Giffard West 	Wellington S  
+Gil Gil 	Buloke S  
+Gilderoy 	Yarra Ranges S  
+Gillieston 	Greater Shepparton C  
+Gillum 	Wellington S  
+Gipsy Point 	East Gippsland S  
+Girgarre 	Campaspe S  
+Girgarre East 	Greater Shepparton C  
+Gisborne 	Macedon Ranges S  
+Gisborne South 	Macedon Ranges S  
+Gladfield 	Loddon S  
+Gladstone Park 	Hume C  
+Gladysdale 	Yarra Ranges S  
+Glen Alvie 	Bass Coast S  
+Glen Creek 	Alpine S  
+Glen Falloch 	Wellington S  
+Glen Forbes 	Bass Coast S  
+Glen Huntly 	Glen Eira C  
+Glen Iris 	Boroondara C  
+Glen Iris 	Stonnington C  
+Glen Park 	Ballarat C  
+Glen Park 	Moorabool S  
+Glen Valley 	East Gippsland S  
+Glen Waverely 	Monash C  
+Glen Wills 	East Gippsland S  
+Glenaire 	Colac Otway S  
+Glenaladale 	East Gippsland S  
+Glenalbyn 	Loddon S  
+Glenaroua 	Mitchell S  
+Glenbrae 	Pyrenees S  
+Glenburn 	Murrindindi S  
+Glendaruel 	Ballarat C  
+Glendonnel 	Ballarat C  
+Glenferrie South 	Boroondara C  
+Glenfyne 	Corangamite S  
+Glengara 	Brimbank C  
+Glengarry 	Latrobe C  
+Glengarry 	Wellington S  
+Glengarry North 	Baw Baw S  
+Glengarry North 	Latrobe C  
+Glengarry West 	Latrobe C  
+Glengower 	Central Goldfields S  
+Glengower 	Hepburn S  
+Glenhope 	Macedon Ranges S  
+Glenhope 	Mitchell S  
+Glenhope East 	Mitchell S  
+Glenisla 	Northern Grampians S  
+Glenisla 	Southern Grampians S  
+Glenlee 	Hindmarsh S  
+Glenlofty 	Pyrenees S  
+Glenlogie 	Ararat RC  
+Glenlogie 	Pyrenees S  
+Glenloth 	Buloke S  
+Glenloth East 	Buloke S  
+Glenloth East 	Loddon S  
+Glenluce 	Mount Alexander S  
+Glenlyon 	Hepburn S  
+Glenmaggie 	Wellington S  
+Glenmore 	Moorabool S  
+Glenorchy 	Northern Grampians S  
+Glenormiston North 	Corangamite S  
+Glenormiston North 	Moyne S  
+Glenormiston South 	Corangamite S  
+Glenpatrick 	Pyrenees S  
+Glenrowan 	Benalla RC  
+Glenrowan 	Wangaratta RC  
+Glenrowan West 	Benalla RC  
+Glenroy 	Moreland C  
+Glenthompson 	Ararat RC  
+Glenthompson 	Sthn Grampians S  
+Glomar Beach 	Wellington S  
+Gnarwarre 	Surf Coast S  
+Gnotuk 	Corangamite S  
+Gobur 	Murrindindi S  
+Golden Beach 	Wellington S  
+Golden Gully 	Greater Bendigo C  
+Golden Point 	Ballarat C  
+Golden Point 	Central Goldfields S  
+Golden Point 	Mount Alexander S  
+Golden Square 	Greater Bendigo C  
+Goldie 	Macedon Ranges S  
+Goldsborough 	Central Goldfields S  
+Goldsborough 	Loddon S  
+Gong Gong 	Ballarat C  
+Gonn Crossing 	Gannawarra S  
+Goomalibee 	Benalla RC  
+Goon Nure 	East Gippsland S  
+Goongerah 	East Gippsland S  
+Gooram 	Murrindindi S  
+Gooram 	Strathbogie S  
+Gooramadda 	Indigo S  
+Goorambat 	Benalla RC  
+Goornong 	Greater Bendigo C  
+Gooroc 	Northern Grampians S  
+Gorae 	Glenelg S  
+Gorae West 	Glenelg S  
+Gordon 	Moorabool S  
+Gormandale 	Wellington S  
+Goroke 	West Wimmera S  
+Goschen 	Swan Hill RC  
+Goughs Bay 	Mansfield S  
+Goulburn Weir 	Strathbogie S  
+Gowanbrae 	Moreland C  
+Gowanford 	Swan Hill RC  
+Gowangardie 	Gr Shepparton C  
+Gowar East 	Loddon S  
+Gowar East 	Northern Grampians S  
+Gower 	Mount Alexander S  
+Grahamvale 	Greater Shepparton C  
+Grampians 	Southern Grampians S  
+Grand Ridge 	Latrobe C  
+Grand Ridge 	Wellington S  
+Granite Flat 	Buloke S  
+Granite Rock 	East Gippsland S  
+Grantville 	Bass Coast S  
+Granya 	Towong S  
+Grass Flat 	Horsham RC  
+Grass Flat 	West Wimmera S  
+Grassdale 	Glenelg S  
+Grassmere 	Moyne S  
+Grays Bridge 	Northern Grampians S  
+Graytown 	Strathbogie S  
+Gre Gre 	Northern Grampians S  
+Gre Gre North 	Nthn Grampians S  
+Gre Gre South 	Nthn Grampians S  
+Great Northern 	Indigo S  
+Great Western 	Ararat RC  
+Great Western 	Nthn Grampians S  
+Gredgwin 	Gannawarra S  
+Gredgwin 	Loddon S  
+Green Gully 	Mount Alexander S  
+Green Lake 	Horsham RC  
+Greendale 	Moorabool S  
+Greenhill 	Macedon Ranges S  
+Greenhill 	Mount Alexander S  
+Greenland Dam 	Horsham RC  
+Greenmount 	Wellington S  
+Greens Creek 	Nthn Grampians S  
+Greensborough 	Banyule C  
+Greensborough 	Nillumbik S  
+Greenvale 	Hume C  
+Greenwald 	Glenelg S  
+Grenville 	Golden Plains S  
+Grenville 	Moorabool S  
+Greta 	Wangaratta RC  
+Greta South 	Wangaratta RC  
+Greta West 	Benalla RC  
+Greta West 	Wangaratta RC  
+Grey River 	Colac Otway S  
+Greythorn 	Boroondara C  
+Gringegalgona 	Sthn Grampians S  
+Gritjurk 	Southern Grampians S  
+Grovedale 	Greater Geelong C  
+Gruyere 	Yarra Ranges S  
+Guildford 	Hepburn S  
+Guildford 	Mount Alexander S  
+Gunbower 	Campaspe S  
+Gundowring 	Alpine S  
+Gundowring 	Indigo S  
+Gunyah 	South Gippsland S  
+Guys Forest 	Towong S  
+Guys Hill 	Cardinia S  
+Gymbowen 	West Wimmera S  
+Haddon 	Golden Plains S  
+Hadfield 	Moreland C  
+Hallam 	Casey C  
+Hallora 	Baw Baw S  
+Halls Gap 	Ararat RC  
+Halls Gap 	Northern Grampians S  
+Hallston 	Baw Baw S  
+Hallston 	South Gippsland S  
+Hamilton 	Southern Grampians S  
+Hamlyn Heights 	Greater Geelong C  
+Hampton 	Bayside C  
+Hampton East 	Bayside C  
+Hampton Park 	Casey C  
+Hanging Rock 	Macedon Ranges S  
+Hansonville 	Wangaratta RC  
+Happy Valley 	Golden Plains S  
+Happy Valley 	Swan Hill RC  
+Harcourt 	Mount Alexander S  
+Harcourt North 	Greater Bendigo C  
+Harcourt North 	Mount Alexander S  
+Harkaway 	Casey C  
+Harmers Haven 	Bass Coast S  
+Harrietville 	Alpine S  
+Harrow 	Southern Grampians S  
+Harrow 	West Wimmera S  
+Harston 	Campaspe S  
+Harston 	Greater Shepparton C  
+Hartwell 	Boroondara C  
+Hastings 	Mornington Peninsula S  
+Hattah 	Mildura RC  
+Havelock 	Central Goldfields S  
+Haven 	Horsham RC  
+Havilah 	Alpine S  
+Hawkesdale 	Moyne S  
+Hawkhurst 	Wellington S  
+Hawksburn 	Stonnington C  
+Hawthorn 	Boroondara C  
+Hawthorn East 	Boroondara C  
+Haydens Bog 	East Gippsland S  
+Hazel Park 	South Gippsland S  
+Hazeldene 	Murrindindi S  
+Hazelwood 	Latrobe C  
+Hazelwood North 	Latrobe C  
+Hazelwood South 	Latrobe C  
+Healesville 	Yarra Ranges S  
+Heath Hill 	Baw Baw S  
+Heath Hill 	Cardinia S  
+Heathcote 	Greater Bendigo C  
+Heathcote Junction 	Mitchell S  
+Heathcote South 	Mitchell S  
+Heatherton 	Kingston C  
+Heathmere 	Glenelg S  
+Heathmont 	Maroondah C  
+Hedley 	South Gippsland S  
+Hedley 	Wellington S  
+Heidelberg 	Banyule C  
+Heidelberg Heights 	Banyule C  
+Heidelberg West 	Banyule C  
+Hensley Park 	Sthn Grampians S  
+Henty 	Glenelg S  
+Hepburn 	Hepburn S  
+Hepburn Springs 	Hepburn S  
+Herne Hill 	Greater Geelong C  
+Hernes Oak 	Baw Baw S  
+Hernes Oak 	Latrobe C  
+Hesket 	Macedon Ranges S  
+Hesse 	Golden Plains S  
+Hexham 	Moyne S  
+Heyfield 	Wellington S  
+Heytesbury Lower 	Corangamite S  
+Heytesbury Lower 	Moyne S  
+Heywood 	Glenelg S  
+Hiamdale 	Wellington S  
+Hiawatha 	Wellington S  
+High Camp 	Mitchell S  
+Highett 	Bayside C  
+Highett 	Kingston C  
+Highlands 	Mitchell S  
+Highlands 	Murrindindi S  
+Highton 	Greater Geelong C  
+Hilgay 	Southern Grampians S  
+Hill End 	Baw Baw S  
+Hillcrest 	Pyrenees S  
+Hilldene 	Mitchell S  
+Hillside 	Brimbank C  
+Hillside 	East Gippsland S  
+Hillside 	Melton S  
+Hinnomunjie 	East Gippsland S  
+HMAS Cerberus 	Mornington Pen S  
+Hoddle 	South Gippsland S  
+Hoddles Creek 	Yarra Ranges S  
+Hollands Landing 	East Gippsland S  
+Hollands Landing 	Wellington S  
+Holmesglen 	Stonnington C  
+Homebush 	Pyrenees S  
+Homerton 	Glenelg S  
+Homewood 	Murrindindi S  
+Hopetoun 	Yarriambiack S  
+Hopetoun Gardens 	Glen Eira C  
+Hopetoun Park 	Moorabool S  
+Hopevale 	Yarriambiack S  
+Hoppers Crossing 	Wyndham C  
+Horden Vale 	Colac Otway S  
+Horfield 	Gannawarra S  
+Horfield 	Loddon S  
+Horsham 	Horsham RC  
+Hotham Heights 	Alpine S  
+Hotham Hill 	Melbourne C  
+Hotspur 	Glenelg S  
+Houston 	Whitehorse C  
+Howes Creek 	Mansfield S  
+Howitt Plains 	Mansfield S  
+Howitt Plains 	Wellington S  
+Howqua 	Mansfield S  
+Howqua Hills 	Mansfield S  
+Howqua Inlet 	Mansfield S  
+Howqua Plains 	Mansfield S  
+Hughesdale 	Monash C  
+Hume Weir 	Wodonga RC  
+Humevale 	Whittlesea C  
+Hunter 	Greater Bendigo C  
+Hunterston 	Wellington S  
+Huntingdale 	Monash C  
+Huntly 	Greater Bendigo C  
+Huntly North 	Greater Bendigo C  
+Huon 	Indigo S  
+Huon 	Towong S  
+Huon Creek 	Wodonga RC  
+Hurstbridge 	Nillumbik S  
+Icy Creek 	Baw Baw S  
+Iguana Creek 	East Gippsland S  
+Illabarook 	Golden Plains S  
+Illawarra 	Northern Grampians S  
+Illowa 	Moyne S  
+Illowa 	Warrnambool C  
+Indented Head 	Greater Geelong C  
+Indigo 	Indigo S  
+Indigo Valley 	Indigo S  
+Inglewood 	Loddon S  
+Ingliston 	Moorabool S  
+Inkerman 	Central Goldfields S  
+Inkerman 	Loddon S  
+Invergordon 	Moira S  
+Invergordon South 	Gr Shepparton C  
+Inverleigh 	Golden Plains S  
+Inverleigh 	Surf Coast S  
+Inverloch 	Bass Coast S  
+Inverloch 	South Gippsland S  
+Invermay 	Ballarat C  
+Invermay 	Hepburn S  
+Invermay Park 	Ballarat C  
+Iona 	Cardinia S  
+Iraak 	Mildura RC  
+Irishtown 	Mount Alexander S  
+Ironbark 	Greater Bendigo C  
+Irrewarra 	Colac Otway S  
+Irrewillipe 	Colac Otway S  
+Irrewillipe West 	Colac Otway S  
+Irymple 	Mildura RC  
+Ivanhoe 	Banyule C  
+Ivanhoe East 	Banyule C  
+Jacana 	Hume C  
+Jack River 	Wellington S  
+Jackass Flat 	Greater Bendigo C  
+Jacob Creek 	Baw Baw S  
+Jam Jerrup 	Bass Coast S  
+Jamieson 	Mansfield S  
+Jan Juc 	Surf Coast S  
+Jancourt 	Corangamite S  
+Jancourt East 	Colac Otway S  
+Jancourt East 	Corangamite S  
+Jarklin 	Loddon S  
+Jarrahmond 	East Gippsland S  
+Jarvis Creek 	Towong S  
+Jeeralang 	Latrobe C  
+Jeeralang Junction 	Latrobe C  
+Jeetho 	South Gippsland S  
+Jeffcott 	Buloke S  
+Jeffcott North 	Buloke S  
+Jeparit 	Hindmarsh S  
+Jericho 	Baw Baw S  
+Jeruk 	Buloke S  
+Jil Jil 	Buloke S  
+Jilpanger 	Horsham RC  
+Jindivick 	Baw Baw S  
+Joel Joel 	Northern Grampians S  
+Joel South 	Northern Grampians S  
+Johanna 	Colac Otway S  
+Johnsonville 	East Gippsland S  
+Johnstones Hill 	Wellington S  
+Joyces Creek 	Central Goldfields S  
+Joyces Creek 	Mount Alexander S  
+Jumbuk 	Latrobe C  
+Jumbunna 	South Gippsland S  
+Junction Village 	Casey C  
+Jung 	Horsham RC  
+Jung 	Yarriambiack S  
+Jungaburra 	Loddon S  
+Junortoun 	Greater Bendigo C  
+Kaarimba 	Moira S  
+Kadnook 	West Wimmera S  
+Kalimna 	East Gippsland S  
+Kalimna West 	East Gippsland S  
+Kalkallo 	Hume C  
+Kalkee 	Horsham RC  
+Kallista 	Yarra Ranges S  
+Kalorama 	Yarra Ranges S  
+Kalpienung 	Buloke S  
+Kamarooka 	Greater Bendigo C  
+Kamarooka 	Loddon S  
+Kamarooka North 	Loddon S  
+Kanagulk 	Horsham RC  
+Kancoona 	Alpine S  
+Kangaroo Flat 	Greater Bendigo C  
+Kangaroo Ground 	Nillumbik S  
+Kangaroo Lake 	Gannawarra S  
+Kaniva 	Hindmarsh S  
+Kaniva 	West Wimmera S  
+Kanumbra 	Mansfield S  
+Kanumbra 	Murrindindi S  
+Kanya 	Northern Grampians S  
+Kanyapella 	Campaspe S  
+Karabeal 	Southern Grampians S  
+Kardella 	South Gippsland S  
+Kardella South 	South Gippsland S  
+Kariah 	Corangamite S  
+Karingal 	Frankston C  
+Karnak 	West Wimmera S  
+Karramomus 	Greater Shepparton C  
+Karyrie 	Buloke S  
+Katamatite 	Moira S  
+Katamatite East 	Moira S  
+Katandra 	Greater Shepparton C  
+Katandra West 	Gr Shepparton C  
+Katunga 	Moira S  
+Kawarren 	Colac Otway S  
+Kealba 	Brimbank C  
+Keely 	Gannawarra S  
+Keilor 	Brimbank C  
+Keilor 	Hume C  
+Keilor Downs 	Brimbank C  
+Keilor East 	Brimbank C  
+Keilor East 	Moonee Valley C  
+Keilor Lodge 	Brimbank C  
+Keilor North 	Brimbank C  
+Keilor Park 	Brimbank C  
+Kellalac 	Yarriambiack S  
+Kelvin View 	Strathbogie S  
+Kenley 	Swan Hill RC  
+Kenmare 	Hindmarsh S  
+Kennedys Creek 	Colac Otway S  
+Kennedys Creek 	Corangamite S  
+Kennett River 	Colac Otway S  
+Kennington 	Greater Bendigo C  
+Kensington 	Melbourne C  
+Kensington 	Moonee Valley C  
+Keon Park 	Darebin C  
+Kerang 	Gannawarra S  
+Kerang East 	Gannawarra S  
+Kergunyah 	Indigo S  
+Kergunyah South 	Alpine S  
+Kernot 	Bass Coast S  
+Kerrie 	Macedon Ranges S  
+Kerrimuir 	Whitehorse C  
+Kerrisdale 	Murrindindi S  
+Kevington 	Mansfield S  
+Kew 	Boroondara C  
+Kew East 	Boroondara C  
+Kewell 	Horsham RC  
+Kewell 	Yarriambiack S  
+Keysborough 	Greater Dandenong C  
+Kialla 	Greater Shepparton C  
+Kialla East 	Greater Shepparton C  
+Kialla West 	Greater Shepparton C  
+Kiata 	Hindmarsh S  
+Kiewa 	Indigo S  
+Kilcunda 	Bass Coast S  
+Killara 	Glenelg S  
+Killara 	Wodonga RC  
+Killarney 	Moyne S  
+Killawarra 	Wangaratta RC  
+Killingworth 	Murrindindi S  
+Kilmany 	Wellington S  
+Kilmore 	Mitchell S  
+Kilmore East 	Mitchell S  
+Kilsyth 	Maroondah C  
+Kilsyth 	Yarra Ranges S  
+Kilsyth South 	Maroondah C  
+Kimbolton 	Greater Bendigo C  
+King Valley 	Wangaratta RC  
+Kinglake 	Murrindindi S  
+Kinglake 	Nillumbik S  
+Kinglake Central 	Murrindindi S  
+Kinglake Central 	Nillumbik S  
+Kinglake West 	Murrindindi S  
+Kinglake West 	Nillumbik S  
+Kinglake West 	Whittlesea C  
+Kingower 	Loddon S  
+Kings Park 	Brimbank C  
+Kingsbury 	Darebin C  
+Kingston 	Hepburn S  
+Kingsville 	Maribyrnong C  
+Kingsville South 	Hobsons Bay C  
+Kinnabulla 	Buloke S  
+Kinypanial 	Loddon S  
+Kirkstall 	Moyne S  
+Kirwins Bridge 	Strathbogie S  
+Kithbrook 	Strathbogie S  
+Knebsworth 	Moyne S  
+Knowsley 	Greater Bendigo C  
+Knoxfield 	Knox C  
+Koallah 	Corangamite S  
+Kobyboyn 	Mitchell S  
+Koetong 	Towong S  
+Kolora 	Corangamite S  
+Kolora 	Moyne S  
+Kongwak 	Bass Coast S  
+Kongwak 	South Gippsland S  
+Konongwootong 	Sthn Grampians S  
+Koo Wee Rup 	Cardinia S  
+Koo Wee Rup North 	Cardinia S  
+Kooloonong 	Swan Hill RC  
+Koonda 	Strathbogie S  
+Koondrook 	Gannawarra S  
+Koonoomoo 	Moira S  
+Koonwarra 	South Gippsland S  
+Kooreh 	Northern Grampians S  
+Koorlong 	Mildura RC  
+Koornalla 	Latrobe C  
+Kooroocheang 	Hepburn S  
+Koorool 	Wellington S  
+Koorooman 	South Gippsland S  
+Kooyong 	Stonnington C  
+Koriella 	Murrindindi S  
+Korobeit 	Moorabool S  
+Koroit 	Moyne S  
+Korong Vale 	Loddon S  
+Koroop 	Gannawarra S  
+Korumburra 	South Gippsland S  
+Korumburra South 	Sth Gippsland S  
+Korweinguboora 	Hepburn S  
+Korweinguboora 	Moorabool S  
+Kotta 	Campaspe S  
+Kotupna 	Moira S  
+Kow Swamp 	Campaspe S  
+Koyuga 	Campaspe S  
+Krowera 	Bass Coast S  
+Krowera 	South Gippsland S  
+Kulwin 	Mildura RC  
+Kunat 	Swan Hill RC  
+Kunyung 	Mornington Peninsula S  
+Kurraca 	Loddon S  
+Kurraca West 	Loddon S  
+Kurting 	Loddon S  
+Kurunjang 	Melton S  
+Ky Valley 	Campaspe S  
+Ky West 	Campaspe S  
+Kyabram 	Campaspe S  
+Kyabram 	Greater Shepparton C  
+Kyabram South 	Gr Shepparton C  
+Kyneton 	Macedon Ranges S  
+Kyneton South 	Macedon Ranges S  
+Laanecoorie 	Loddon S  
+Laang 	Moyne S  
+Labertouche 	Baw Baw S  
+Laburnum 	Whitehorse C  
+Laceby 	Wangaratta RC  
+Ladys Pass 	Greater Bendigo C  
+Laen 	Buloke S  
+Laen 	Northern Grampians S  
+Laen 	Yarriambiack S  
+Laen East 	Buloke S  
+Laen North 	Buloke S  
+Lah 	Yarriambiack S  
+Laharum 	Horsham RC  
+Laharum 	Northern Grampians S  
+Lake Boga 	Swan Hill RC  
+Lake Bolac 	Ararat RC  
+Lake Buloke 	Buloke S  
+Lake Bunga 	East Gippsland S  
+Lake Charm 	Gannawarra S  
+Lake Condah 	Glenelg S  
+Lake Condah 	Moyne S  
+Lake Cooper 	Campaspe S  
+Lake Eildon 	Mansfield S  
+Lake Fyans 	Northern Grampians S  
+Lake Gardens 	Ballarat C  
+Lake Goldsmith 	Pyrenees S  
+Lake Hindmarsh 	Hindmarsh S  
+Lake Lonsdale 	Nthn Grampians S  
+Lake Marmal 	Loddon S  
+Lake Marmel 	Buloke S  
+Lake Meran 	Gannawarra S  
+Lake Meran 	Loddon S  
+Lake Mokoan 	Benalla RC  
+Lake Mundi 	Glenelg S  
+Lake Powell 	Swan Hill RC  
+Lake Rowan 	Moira S  
+Lake Tyers 	East Gippsland S  
+Lake Tyers Beach 	East Gippsland S  
+Lake Tyrrell 	Buloke S  
+Lake Wellington 	Wellington S  
+Lake Wendouree 	Ballarat C  
+Lake Wongan 	Pyrenees S  
+Lakes Entrance 	East Gippsland S  
+Lal Lal 	Moorabool S  
+Lalbert 	Gannawarra S  
+Lalor 	Whittlesea C  
+Lamplough 	Pyrenees S  
+Lancaster 	Campaspe S  
+Lancaster 	Greater Shepparton C  
+Lance Creek 	Bass Coast S  
+Lancefield 	Macedon Ranges S  
+Landsborough 	Pyrenees S  
+Landsborough 	Wellington S  
+Landsborough West  Northern Grampians S  
+Landsborough West 	Pyrenees S  
+Lang Lang 	Bass Coast S  
+Lang Lang 	Cardinia S  
+Lang Lang 	South Gippsland S  
+Lang Lang East 	Cardinia S  
+Langdons Hill 	Hepburn S  
+Langi Kal Kal 	Pyrenees S  
+Langi Logan 	Ararat RC  
+Langkoop 	West Wimmera S  
+Langley 	Mount Alexander S  
+Langwarrin 	Frankston C  
+Langwarrin South 	Frankston C  
+Lara 	Greater Geelong C  
+Lardner 	Baw Baw S  
+Larpent 	Colac Otway S  
+Larralea 	Corangamite S  
+Lascelles 	Yarriambiack S  
+Launching Place 	Yarra Ranges S  
+Lauriston 	Macedon Ranges S  
+Lavers Hill 	Colac Otway S  
+Laverton 	Hobsons Bay C  
+Laverton 	Wyndham C  
+Laverton North 	Wyndham C  
+Laverton RAAF 	Wyndham C  
+Lawler 	Buloke S  
+Lawler 	Yarriambiack S  
+Lawloit 	West Wimmera S  
+Lawrence 	Hepburn S  
+Leaghur 	Loddon S  
+Learmonth 	Ballarat C  
+Ledcourt 	Northern Grampians S  
+Leichardt 	Greater Bendigo C  
+Leichardt 	Loddon S  
+Leigh Creek 	Moorabool S  
+Leitchville 	Gannawarra S  
+Leitchville 	Loddon S  
+Lemnos 	Greater Shepparton C  
+Leneva 	Wodonga RC  
+Leonards Hill 	Hepburn S  
+Leongatha 	South Gippsland S  
+Leongatha North 	South Gippsland S  
+Leongatha South 	South Gippsland S  
+Leopold 	Greater Geelong C  
+Lerderderg 	Moorabool S  
+Leslie Manor 	Corangamite S  
+Lethbridge 	Golden Plains S  
+Lexton 	Pyrenees S  
+Licola 	Wellington S  
+Licola North 	Mansfield S  
+Licola North 	Wellington S  
+Lillico 	Baw Baw S  
+Lillicur 	Central Goldfields S  
+Lillicur 	Pyrenees S  
+Lillimur 	West Wimmera S  
+Lilliput 	Indigo S  
+Lilydale 	Yarra Ranges S  
+Lima 	Benalla RC  
+Lima East 	Benalla RC  
+Lima South 	Benalla RC  
+Lima South 	Mansfield S  
+Limestone 	Murrindindi S  
+Limonite 	South Gippsland S  
+Lindenow 	East Gippsland S  
+Lindenow South 	East Gippsland S  
+Lindsay 	Glenelg S  
+Lindsay Point 	Mildura RC  
+Linga 	Mildura RC  
+Linton 	Golden Plains S  
+Liparoo 	Swan Hill RC  
+Lismore 	Corangamite S  
+Litchfield 	Buloke S  
+Little Desert 	Hindmarsh S  
+Little Hampton 	Hepburn S  
+Little River 	Greater Geelong C  
+Little River 	Wyndham C  
+Llanelly 	Loddon S  
+Llowalong 	Wellington S  
+Loch 	Bass Coast S  
+Loch 	South Gippsland S  
+Loch Sport 	Wellington S  
+Loch Valley 	Baw Baw S  
+Lochend 	East Gippsland S  
+Lockington 	Campaspe S  
+Locksley 	Strathbogie S  
+Lockwood 	Greater Bendigo C  
+Lockwood South 	Greater Bendigo C  
+Lockwood South 	Mount Alexander S  
+Loddon Vale 	Loddon S  
+Logan 	Loddon S  
+Logan 	Northern Grampians S  
+Londrigan 	Wangaratta RC  
+Long Forest 	Moorabool S  
+Long Gully 	Greater Bendigo C  
+Longerenong 	Horsham RC  
+Longerenong 	Yarriambiack S  
+Longford 	Wellington S  
+Longlea 	Greater Bendigo C  
+Longwarry 	Baw Baw S  
+Longwarry 	Cardinia S  
+Longwarry North 	Baw Baw S  
+Longwood 	Strathbogie S  
+Longwood East 	Strathbogie S  
+Lorne 	Surf Coast S  
+Lorquon 	Hindmarsh S  
+Lovely Banks 	Greater Geelong C  
+Lower Moira 	Moira S  
+Lower Norton 	Horsham RC  
+Lower Plenty 	Banyule C  
+Loy Yang 	Latrobe C  
+Lubeck 	Northern Grampians S  
+Lubeck 	Yarriambiack S  
+Lucknow 	East Gippsland S  
+Lucyvale 	Towong S  
+Lurg 	Benalla RC  
+Lurg Upper 	Benalla RC  
+Lurg Upper 	Wangaratta RC  
+Lyal 	Greater Bendigo C  
+Lynbrook 	Casey C  
+Lyndhurst 	Casey C  
+Lyndhurst 	Greater Dandenong C  
+Lyons 	Glenelg S  
+Lyonville 	Hepburn S  
+Lysterfield 	Knox C  
+Lysterfield 	Yarra Ranges S  
+Lysterfield South 	Casey C  
+Macarthur 	Moyne S  
+Macclesfield 	Yarra Ranges S  
+Macedon 	Macedon Ranges S  
+Macks Creek 	Wellington S  
+Macleod 	Banyule C  
+Macleod 	Darebin C  
+Macorna 	Gannawarra S  
+Macorna 	Loddon S  
+Macorna North 	Gannawarra S  
+Macs Cove 	Mansfield S  
+Madalya 	Wellington S  
+Maddingley 	Moorabool S  
+Mafeking 	Ararat RC  
+Maffra 	Wellington S  
+Maffra West Upper 	Wellington S  
+Magpie 	Ballarat C  
+Maiden Gully 	Greater Bendigo C  
+Maidstone 	Maribyrnong C  
+Mailor Flat 	Moyne S  
+Main Lead 	Pyrenees S  
+Main Ridge 	Mornington Peninsula S  
+Maindample 	Mansfield S  
+Maintongoon 	Murrindindi S  
+Major Plains 	Benalla RC  
+Major Plains 	Greater Shepparton C  
+Majorca 	Central Goldfields S  
+Maldon 	Mount Alexander S  
+Mallacoota 	East Gippsland S  
+Malmsbury 	Hepburn S  
+Malmsbury 	Macedon Ranges S  
+Malmsbury 	Mount Alexander S  
+Malvern 	Stonnington C  
+Malvern East 	Stonnington C  
+Mambourin 	Wyndham C  
+Manangatang 	Swan Hill RC  
+Mandurang 	Greater Bendigo C  
+Mandurang South 	Greater Bendigo C  
+Mangalore 	Mitchell S  
+Mangalore 	Strathbogie S  
+Manifold Heights 	Greater Geelong C  
+Mannerim 	Greater Geelong C  
+Mannibadar 	Golden Plains S  
+Manns Beach 	Wellington S  
+Manorina 	East Gippsland S  
+Mansfield 	Mansfield S  
+Maramingo Creek 	East Gippsland S  
+Marcus Hill 	Greater Geelong C  
+Mardan 	South Gippsland S  
+Marengo 	Colac Otway S  
+Maribyrnong 	Maribyrnong C  
+Marionvale 	Greater Shepparton C  
+Markwood 	Wangaratta RC  
+Marlbed 	Buloke S  
+Marlo 	East Gippsland S  
+Marnoo 	Northern Grampians S  
+Marnoo East 	Northern Grampians S  
+Marnoo West 	Northern Grampians S  
+Marong 	Greater Bendigo C  
+Marong 	Loddon S  
+Maroona 	Ararat RC  
+Marraweeny 	Strathbogie S  
+Marshall 	Greater Geelong C  
+Marthavale 	East Gippsland S  
+Marungi 	Greater Shepparton C  
+Marungi 	Moira S  
+Maryborough 	Central Goldfields S  
+Maryknoll 	Cardinia S  
+Marysville 	Murrindindi S  
+Maryvale 	Latrobe C  
+Massey 	Buloke S  
+Matlock 	Mansfield S  
+Matlock 	Yarra Ranges S  
+Maude 	Golden Plains S  
+McCrae 	Mornington Peninsula S  
+McEvoys 	Campaspe S  
+McIntyre 	Loddon S  
+McKenzie Creek 	Horsham RC  
+McKenzies Hill 	Mount Alexander S  
+McKinnon 	Glen Eira C  
+McLoughlins Beach 	Wellington S  
+McMahons Creek 	Yarra Ranges S  
+McMillans 	Gannawarra S  
+Mead 	Gannawarra S  
+Meadow Creek 	Wangaratta RC  
+Meadow Heights 	Hume C  
+Meatian 	Gannawarra S  
+Meatian 	Swan Hill RC  
+Meeniyan 	South Gippsland S  
+Meering West 	Gannawarra S  
+Meering West 	Loddon S  
+Meerlieu 	Wellington S  
+Melbourne 	Melbourne C  
+Melbourne 	Melbourne C  
+Melbourne 	Port Phillip C  
+Melbourne Airport 	Hume C  
+Melbourne West 	Melbourne C  
+Melton 	Melton S  
+Melton South 	Melton S  
+Melton West 	Melton S  
+Melville Forest 	Sthn Grampians S  
+Melwood 	East Gippsland S  
+Mena Park 	Pyrenees S  
+Mentone 	Kingston C  
+Menzies Creek 	Cardinia S  
+Menzies Creek 	Yarra Ranges S  
+Mepunga 	Moyne S  
+Mepunga East 	Moyne S  
+Mepunga West 	Moyne S  
+Merbein 	Mildura RC  
+Merbein South 	Mildura RC  
+Merbein West 	Mildura RC  
+Meredith 	Golden Plains S  
+Meredith 	Moorabool S  
+Meringur 	Mildura RC  
+Merino 	Glenelg S  
+Merlynston 	Moreland C  
+Mernda 	Whittlesea C  
+Merriang 	Alpine S  
+Merricks 	Mornington Peninsula S  
+Merricks Beach 	Mornington Pen S  
+Merricks North 	Mornington Pen S  
+Merrigum 	Greater Shepparton C  
+Merrijig 	East Gippsland S  
+Merrijig 	Mansfield S  
+Merrimu 	Moorabool S  
+Merrinee 	Mildura RC  
+Merton 	Mansfield S  
+Merton 	Murrindindi S  
+Metcalfe 	Mount Alexander S  
+Metcalfe East 	Mount Alexander S  
+Metung 	East Gippsland S  
+Mewburn Park 	Wellington S  
+Mia Mia 	Greater Bendigo C  
+Mia Mia 	Mitchell S  
+Mickleham 	Hume C  
+Mid Valley 	Latrobe C  
+Middle Creek 	Ararat RC  
+Middle Creek 	Pyrenees S  
+Middle Park 	Port Phillip C  
+Middle Tarwin 	South Gippsland S  
+Miepoll 	Strathbogie S  
+Miga Lake 	West Wimmera S  
+Milawa 	Wangaratta RC  
+Mildura 	Mildura RC  
+Mill Park 	Whittlesea C  
+Millbrook 	Moorabool S  
+Millgrove 	Yarra Ranges S  
+Milloo 	Campaspe S  
+Milloo 	Loddon S  
+Milltown 	Glenelg S  
+Milnes Bridge 	Gannawarra S  
+Mincha 	Loddon S  
+Mincha West 	Gannawarra S  
+Miners Rest 	Ballarat C  
+Mingay 	Corangamite S  
+Minhamite 	Moyne S  
+Minimay 	West Wimmera S  
+Mininera 	Ararat RC  
+Minjah 	Moyne S  
+Minmindie 	Loddon S  
+Minto 	Greater Bendigo C  
+Minyip 	Yarriambiack S  
+Miowera 	Wellington S  
+Miralie 	Swan Hill RC  
+Miram 	West Wimmera S  
+Mirboo 	Latrobe C  
+Mirboo 	South Gippsland S  
+Mirboo East 	South Gippsland S  
+Mirboo North 	South Gippsland S  
+Mirboo South 	Baw Baw S  
+Mirimbah 	Mansfield S  
+Mirranatwa 	Southern Grampians S  
+Mitcham 	Whitehorse C  
+Mitchell Park 	Ballarat C  
+Mitchells Hill 	Northern Grampians S  
+Mitchellstown 	Strathbogie S  
+Mitiamo 	Campaspe S  
+Mitiamo 	Loddon S  
+Mitre 	Horsham RC  
+Mitre 	West Wimmera S  
+Mitta Mitta 	East Gippsland S  
+Mitta Mitta 	Towong S  
+Mittyack 	Mildura RC  
+Mockinya 	Horsham RC  
+Modella 	Baw Baw S  
+Modella 	Cardinia S  
+Modewarre 	Surf Coast S  
+Moe 	Baw Baw S  
+Moe 	Latrobe C  
+Moe South 	Baw Baw S  
+Moe South 	Latrobe C  
+Moggs Creek 	Surf Coast S  
+Moglonemby 	Strathbogie S  
+Mokepilly 	Northern Grampians S  
+Molesworth 	Murrindindi S  
+Moliagul 	Central Goldfields S  
+Moliagul 	Loddon S  
+Molka 	Strathbogie S  
+Mollongghip 	Hepburn S  
+Mollongghip 	Moorabool S  
+Mologa 	Loddon S  
+Molyullah 	Benalla RC  
+Monbulk 	Yarra Ranges S  
+Monegeetta 	Macedon Ranges S  
+Mongans Bridge 	Alpine S  
+Monomak 	Wellington S  
+Monomeith 	Cardinia S  
+Mont Albert 	Boroondara C  
+Mont Albert 	Whitehorse C  
+Mont Albert North 	Whitehorse C  
+Montgomery 	Wellington S  
+Montmorency 	Banyule C  
+Montrose 	Yarra Ranges S  
+Moolap 	Greater Geelong C  
+Moolerr 	Northern Grampians S  
+Moolort 	Central Goldfields S  
+Moolort 	Mount Alexander S  
+Moonambel 	Pyrenees S  
+Moondarra 	Baw Baw S  
+Moondarra 	Latrobe C  
+Moonee Ponds 	Moonee Valley C  
+Moonlight Flat 	Central Goldfields S  
+Moonlight Flat 	Mount Alexander S  
+Moora 	Campaspe S  
+Moorabbin 	Bayside C  
+Moorabbin 	Kingston C  
+Moorabbin Airport 	Kingston C  
+Moorabool 	Greater Geelong C  
+Mooralla 	Southern Grampians S  
+Moorilim 	Greater Shepparton C  
+Moorilim 	Strathbogie S  
+Moormbool West 	Strathbogie S  
+Moornapa 	Wellington S  
+Moorngag 	Benalla RC  
+Moorooduc 	Mornington Peninsula S  
+Mooroolbark 	Yarra Ranges S  
+Mooroopna 	Greater Shepparton C  
+Mooroopna North 	Gr Shepparton C  
+Mooroopna North West 	Greater Shepparton C  
+Moranding 	Mitchell S  
+Morang South 	Whittlesea C  
+Mordialloc 	Kingston C  
+Moreland 	Moreland C  
+Morgiana 	Southern Grampians S  
+Moriac 	Surf Coast S  
+Mornington 	Mornington Peninsula S  
+Moroka 	Wellington S  
+Morrisons 	Golden Plains S  
+Morrisons 	Moorabool S  
+Morrl Morrl 	Northern Grampians S  
+Mortlake 	Moyne S  
+Morton Plains 	Buloke S  
+Morwell 	Latrobe C  
+Mosquito Creek 	Greater Bendigo C  
+Mossiface 	East Gippsland S  
+Mount Alfred 	Towong S  
+Mount Beauty 	Alpine S  
+Mount Beckworth 	Hepburn S  
+Mount Best 	South Gippsland S  
+Mount Bolton 	Ballarat C  
+Mount Bruno 	Benalla RC  
+Mount Buffalo 	Alpine S  
+Mount Buller 	Mansfield S  
+Mount Buller 	Wellington S  
+Mount Burnett 	Cardinia S  
+Mount Bute 	Corangamite S  
+Mount Bute 	Golden Plains S  
+Mount Camel 	Greater Bendigo C  
+Mount Cameron 	Central Goldfields S  
+Mount Cameron 	Hepburn S  
+Mount Clear 	Ballarat C  
+Mount Cole 	Ararat RC  
+Mount Cole Creek 	Ararat RC  
+Mount Cottrell 	Melton S  
+Mount Cottrell 	Wyndham C  
+Mount Dandenong 	Yarra Ranges S  
+Mount Doran 	Moorabool S  
+Mount Dryden (-)	Northern Grampians S  
+Mount Duneed 	Greater Geelong C  
+Mount Duneed 	Surf Coast S  
+Mount Eccles 	South Gippsland S  
+Mount Eccles South 	Sth Gippsland S  
+Mount Eckersley 	Glenelg S  
+Mount Egerton 	Moorabool S  
+Mount Eliza 	Mornington Peninsula S  
+Mount Emu 	Pyrenees S  
+Mount Evelyn 	Yarra Ranges S  
+Mount Franklin 	Hepburn S  
+Mount Glasgow 	Central Goldfields S  
+Mount Helen 	Ballarat C  
+Mount Hooghly 	Central Goldfields S  
+Mount Hotham 	Alpine S  
+Mount Lonarch 	Pyrenees S  
+Mount Macedon 	Macedon Ranges S  
+Mount Major 	Greater Shepparton C  
+Mount Martha 	Mornington Pen S  
+Mount Mercer 	Golden Plains S  
+Mount Moriac 	Surf Coast S  
+Mount Napier 	Sthn Grampians S  
+Mount Pleasant 	Ballarat C  
+Mount Prospect 	Hepburn S  
+Mount Richmond 	Glenelg S  
+Mount Rowan 	Ballarat C  
+Mount Sabine 	Colac Otway S  
+Mount Scobie 	Campaspe S  
+Mount Talbot 	Horsham RC  
+Mount Tassie 	Latrobe C  
+Mount Taylor 	East Gippsland S  
+Mount Toolebewong 	Yarra Ranges S  
+Mount Wallace 	Moorabool S  
+Mount Waverley 	Monash C  
+Mountain Bay 	Mansfield S  
+Mountain View 	Baw Baw S  
+Mountain View 	South Gippsland S  
+Moutajup 	Southern Grampians S  
+Moyarra 	South Gippsland S  
+Moyhu 	Wangaratta RC  
+Moyreisk 	Northern Grampians S  
+Moyston 	Ararat RC  
+Muckatah 	Moira S  
+Muckleford 	Mount Alexander S  
+Muckleford South 	Mt Alexander S  
+Mudgeegonga 	Alpine S  
+Mudgegonga 	Indigo S  
+Mulgrave 	Monash C  
+Mumbannar 	Glenelg S  
+Mundoona 	Moira S  
+Munro 	Wellington S  
+Muntham 	Glenelg S  
+Muntham 	Southern Grampians S  
+Murchison 	Campaspe S  
+Murchison 	Greater Shepparton C  
+Murchison East 	Gr Shepparton C  
+Murchison North 	Gr Shepparton C  
+Murgheboluc 	Golden Plains S  
+Murmungee 	Wangaratta RC  
+Murnungin 	Swan Hill RC  
+Murphys Creek 	Loddon S  
+Murra Warra 	Horsham RC  
+Murra Warra 	Yarriambiack S  
+Murrabit 	Gannawarra S  
+Murrabit West 	Gannawarra S  
+Murrawee 	Swan Hill RC  
+Murraydale 	Swan Hill RC  
+Murray-Sunset (-)	Mildura RC  
+Murrayville 	Mildura RC  
+Murrindal 	East Gippsland S  
+Murrindindi 	Murrindindi S  
+Murroon 	Colac Otway S  
+Murrumbeena 	Glen Eira C  
+Murtoa 	Yarriambiack S  
+Musk 	Hepburn S  
+Musk Vale 	Hepburn S  
+Muskerry 	Campaspe S  
+Myall 	Buloke S  
+Myall 	Gannawarra S  
+Myamyn 	Glenelg S  
+Myers Flat 	Greater Bendigo C  
+Myola 	Campaspe S  
+Myrniong 	Moorabool S  
+Myrrhee 	Benalla RC  
+Myrrhee 	Wangaratta RC  
+Myrtle Creek 	Greater Bendigo C  
+Myrtle Creek 	Mount Alexander S  
+Myrtlebank 	Wellington S  
+Myrtleford 	Alpine S  
+Mysia 	Loddon S  
+Mystic Park 	Gannawarra S  
+Mywee 	Moira S  
+Nagambie 	Strathbogie S  
+Nalangil 	Colac Otway S  
+Nalinga 	Greater Shepparton C  
+Nalinga 	Strathbogie S  
+Nambrok 	Wellington S  
+Nandaly 	Buloke S  
+Nangana 	Cardinia S  
+Nangeela 	Glenelg S  
+Nangiloc 	Mildura RC  
+Nanneella 	Campaspe S  
+Nap Nap Marra 	Wellington S  
+Napoleons 	Golden Plains S  
+Nar Nar Goon 	Cardinia S  
+Nar Nar Goon North 	Cardinia S  
+Narbethong 	Murrindindi S  
+Nareeb 	Moyne S  
+Nareeb 	Southern Grampians S  
+Nareen 	Glenelg S  
+Nareen 	Southern Grampians S  
+Nareewillock 	Buloke S  
+Nariel Valley 	East Gippsland S  
+Nariel Valley 	Towong S  
+Naring 	Moira S  
+Naringal 	Moyne S  
+Naringal East 	Moyne S  
+Naroghid 	Corangamite S  
+Narracan 	Baw Baw S  
+Narracan 	Latrobe C  
+Narraport 	Buloke S  
+Narrapumelap South 	Ararat RC  
+Narrawong 	Glenelg S  
+Narre Warren 	Casey C  
+Narre Warren East 	Yarra Ranges S  
+Narre Warren North 	Casey C  
+Narre Warren South 	Casey C  
+Narrung 	Swan Hill RC  
+Nathalia 	Moira S  
+Natimuk 	Horsham RC  
+Natte Yallock 	Central Goldfields S  
+Natte Yallock 	Northern Grampians S  
+Natte Yallock 	Pyrenees S  
+Natya 	Swan Hill RC  
+Navarre 	Northern Grampians S  
+Navarre 	Pyrenees S  
+Navigators 	Moorabool S  
+Nayook 	Baw Baw S  
+Neds Corner 	Mildura RC  
+Neereman 	Mount Alexander S  
+Neerim 	Baw Baw S  
+Neerim East 	Baw Baw S  
+Neerim Junction 	Baw Baw S  
+Neerim North 	Baw Baw S  
+Neerim South 	Baw Baw S  
+Neilborough 	Greater Bendigo C  
+Nelson 	Glenelg S  
+Nerrena 	South Gippsland S  
+Nerrin Nerrin 	Ararat RC  
+Nerrin Nerrin 	Moyne S  
+Nerrina 	Ballarat C  
+Nerring 	Pyrenees S  
+Netherby 	Hindmarsh S  
+Neuarpurr 	West Wimmera S  
+New Gisborne 	Macedon Ranges S  
+Newborough 	Latrobe C  
+Newbridge 	Loddon S  
+Newbury 	Hepburn S  
+Newcomb 	Greater Geelong C  
+Newfield 	Corangamite S  
+Newham 	Macedon Ranges S  
+Newhaven 	Bass Coast S  
+Newington 	Ballarat C  
+Newlands Arm 	East Gippsland S  
+Newlyn 	Hepburn S  
+Newlyn North 	Hepburn S  
+Newmerella 	East Gippsland S  
+Newport 	Hobsons Bay C  
+Newry 	Wellington S  
+Newstead 	Mount Alexander S  
+Newtown 	Golden Plains S  
+Newtown 	Greater Geelong C  
+Nhill 	Hindmarsh S  
+Nichols Point 	Mildura RC  
+Nicholson 	East Gippsland S  
+Niddrie 	Moonee Valley C  
+Nillahcootie 	Mansfield S  
+Nilma 	Baw Baw S  
+Ninda 	Buloke S  
+Nine Mile 	Buloke S  
+Nine Mile 	Loddon S  
+Nintingbool 	Golden Plains S  
+Ninyeunook 	Gannawarra S  
+Nirranda 	Moyne S  
+Nirranda East 	Corangamite S  
+Nirranda East 	Moyne S  
+Nirranda South 	Moyne S  
+Noble Park 	Greater Dandenong C  
+Noble Park North 	Gr Dandenong C  
+Noojee 	Baw Baw S  
+Noorat 	Corangamite S  
+Noorat 	Moyne S  
+Noorat East 	Corangamite S  
+Noorinbee 	East Gippsland S  
+Noorinbee North 	East Gippsland S  
+Noradjuha 	Horsham RC  
+Norlane 	Greater Geelong C  
+Normanville 	Gannawarra S  
+Norong 	Indigo S  
+Norong Central 	Indigo S  
+North Melbourne 	Melbourne C  
+North Melbourne 	Moonee Valley C  
+North Shore 	Greater Geelong C  
+Northcote 	Darebin C  
+Northwood 	Mitchell S  
+Norval 	Ararat RC  
+Notting Hill 	Monash C  
+Nowa Nowa 	East Gippsland S  
+Nowhere Creek 	Pyrenees S  
+Nowie 	Swan Hill RC  
+Nug Nug 	Alpine S  
+Nuggetty 	Mount Alexander S  
+Nulla Vale 	Mitchell S  
+Nullawarre 	Moyne S  
+Nullawarre North 	Moyne S  
+Nullawil 	Buloke S  
+Numurkah 	Moira S  
+Nunawading 	Manningham C  
+Nunawading 	Whitehorse C  
+Nungurner 	East Gippsland S  
+Nunniong 	East Gippsland S  
+Nuntin 	Wellington S  
+Nurcoung 	West Wimmera S  
+Nurrabiel 	Horsham RC  
+Nurran 	East Gippsland S  
+Nutfield 	Nillumbik S  
+Nyah 	Swan Hill RC  
+Nyah West 	Swan Hill RC  
+Nyarrin 	Buloke S  
+Nyerimilang 	East Gippsland S  
+Nyora 	Baw Baw S  
+Nyora 	Cardinia S  
+Nyora 	South Gippsland S  
+Nyrraby 	Swan Hill RC  
+Oak Park 	Moreland C  
+Oaklands Junction 	Hume C  
+Oakleigh 	Monash C  
+Oakleigh East 	Monash C  
+Oakleigh South 	Kingston C  
+Oakleigh South 	Monash C  
+Oakvale 	Gannawarra S  
+Ocean Grange 	East Gippsland S  
+Ocean Grange 	Wellington S  
+Ocean Grove 	Greater Geelong C  
+Officer 	Cardinia S  
+Officer South 	Cardinia S  
+Old Tallangatta 	Towong S  
+Olinda 	Yarra Ranges S  
+Ombersley 	Colac Otway S  
+Ombersley 	Surf Coast S  
+Omeo 	East Gippsland S  
+Omeo Valley 	East Gippsland S  
+Ondit 	Colac Otway S  
+Orbost 	East Gippsland S  
+Orford 	Moyne S  
+Ormond 	Glen Eira C  
+Orrvale 	Greater Shepparton C  
+Osbornes Flat 	Indigo S  
+Outtrim 	Bass Coast S  
+Outtrim 	South Gippsland S  
+Ouyen 	Mildura RC  
+Ovens 	Alpine S  
+Oxley 	Wangaratta RC  
+Oxley Flats 	Wangaratta RC  
+Ozenkadnook 	West Wimmera S  
+Paaratte 	Corangamite S  
+Painswick 	Loddon S  
+Pakenham 	Cardinia S  
+Pakenham South 	Cardinia S  
+Pakenham Upper 	Cardinia S  
+Panitya 	Mildura RC  
+Panmure 	Moyne S  
+Panton Hill 	Nillumbik S  
+Paradise 	Northern Grampians S  
+Paradise Beach 	Wellington S  
+Paraparap 	Surf Coast S  
+Park Orchards 	Manningham C  
+Park Orchards 	Maroondah C  
+Parkdale 	Kingston C  
+Parkville 	Melbourne C  
+Parkville 	Moreland C  
+Parwan 	Melton S  
+Parwan 	Moorabool S  
+Paschendale 	Glenelg S  
+Pascoe Vale 	Moreland C  
+Pascoe Vale South 	Moreland C  
+Pastoria 	Macedon Ranges S  
+Pastoria East 	Macedon Ranges S  
+Patchewollock 	Mildura RC  
+Patchewollock 	Yarriambiack S  
+Patho 	Campaspe S  
+Patterson 	Glen Eira C  
+Patterson Lakes 	Kingston C  
+Patyah 	West Wimmera S  
+Paynesville 	East Gippsland S  
+Pearcedale 	Casey C  
+Pearcedale 	Mornington Peninsula S  
+Pearsondale 	Wellington S  
+Peechelba 	Moira S  
+Peechelba 	Wangaratta RC  
+Peechelba East 	Wangaratta RC  
+Pelluebla 	Moira S  
+Pennyroyal 	Colac Otway S  
+Pennyroyal 	Surf Coast S  
+Penshurst 	Moyne S  
+Penshurst 	Southern Grampians S  
+Pental Island 	Swan Hill RC  
+Pentland Hills 	Moorabool S  
+Percydale 	Pyrenees S  
+Peronne 	West Wimmera S  
+Perry Bridge 	Wellington S  
+Peterborough 	Corangamite S  
+Peterborough 	Moyne S  
+Petticoat Creek 	Colac Otway S  
+Pheasant Creek 	Murrindindi S  
+Piangil 	Swan Hill RC  
+Piavella 	Campaspe S  
+Picola 	Moira S  
+Picola West 	Moira S  
+Piedmont 	Baw Baw S  
+Pier Milan 	Buloke S  
+Pigeon Ponds 	Sthn Grampians S  
+Piggoreet 	Golden Plains S  
+Pilchers Bridge 	Greater Bendigo C  
+Pimpinio 	Horsham RC  
+Pine Grove 	Campaspe S  
+Pine Lodge 	Greater Shepparton C  
+Pine Mountain 	Towong S  
+Pine View 	Gannawarra S  
+Pinewood 	Monash C  
+Pioneer Bay 	Bass Coast S  
+Pipers Creek 	Macedon Ranges S  
+Pira 	Swan Hill RC  
+Piries 	Mansfield S  
+Pirron Yallock 	Colac Otway S  
+Pirron Yallock 	Corangamite S  
+Pitfield 	Golden Plains S  
+Pittong 	Corangamite S  
+Pittong 	Golden Plains S  
+Pittong 	Pyrenees S  
+Plenty 	Nillumbik S  
+Plumpton 	Melton S  
+Point Cook 	Wyndham C  
+Point Leo 	Mornington Peninsula S  
+Point Lonsdale 	Greater Geelong C  
+Point Lonsdale 	Queenscliffe B  
+Point Wilson 	Greater Geelong C  
+Polisbet 	Swan Hill RC  
+Pomborneit 	Corangamite S  
+Pomborneit East 	Corangamite S  
+Pomborneit North 	Corangamite S  
+Pomonal 	Ararat RC  
+Pomonal 	Northern Grampians S  
+Pompapiel 	Loddon S  
+Poolaijelo 	West Wimmera S  
+Pootilla 	Moorabool S  
+Poowong 	South Gippsland S  
+Poowong East 	Baw Baw S  
+Poowong East 	South Gippsland S  
+Poowong North 	Baw Baw S  
+Poowong North 	South Gippsland S  
+Porcupine Flat 	Mount Alexander S  
+Porcupine Ridge 	Hepburn S  
+Porepunkah 	Alpine S  
+Port Albert 	Wellington S  
+Port Campbell 	Corangamite S  
+Port Fairy 	Moyne S  
+Port Franklin 	South Gippsland S  
+Port Melbourne 	Melbourne C  
+Port Melbourne 	Port Phillip C  
+Port Welshpool 	South Gippsland S  
+Portarlington 	Greater Geelong C  
+Portland 	Glenelg S  
+Portland North 	Glenelg S  
+Portland West 	Glenelg S  
+Portsea 	Mornington Peninsula S  
+Pound Creek 	Bass Coast S  
+Pound Creek 	South Gippsland S  
+Powelltown 	Yarra Ranges S  
+Powers Creek 	West Wimmera S  
+Powlett Plains 	Loddon S  
+Powlett River 	Bass Coast S  
+Prahran 	Melbourne C  
+Prahran 	Stonnington C  
+Prairie 	Loddon S  
+Pranjip 	Strathbogie S  
+Prentice North 	Indigo S  
+Preston 	Darebin C  
+Princes Hill 	Yarra C  
+Princetown 	Corangamite S  
+Puckapunyal 	Mitchell S  
+Pura Pura 	Ararat RC  
+Pura Pura 	Corangamite S  
+Pura Pura 	Moyne S  
+Purdeet 	Moyne S  
+Purdeet 	Southern Grampians S  
+Purnim 	Moyne S  
+Purnim West 	Moyne S  
+Purrumbete South 	Corangamite S  
+Pyalong 	Mitchell S  
+Pyramid Hill 	Loddon S  
+Quambatook 	Gannawarra S  
+Quandong 	Wyndham C  
+Quantong 	Horsham RC  
+Quarry Hill 	Greater Bendigo C  
+Queenscliff 	Queenscliffe B  
+Queensferry 	Bass Coast S  
+Raglan 	Pyrenees S  
+Rainbow 	Hindmarsh S  
+Rainbow 	Yarriambiack S  
+Ranceby 	South Gippsland S  
+Rathscar 	Central Goldfields S  
+Rathscar 	Pyrenees S  
+Rathscar West 	Pyrenees S  
+Ravenhall 	Melton S  
+Ravenswood 	Mount Alexander S  
+Ravenswood South 	Mt Alexander S  
+Rawson 	Baw Baw S  
+Raymond Island 	East Gippsland S  
+Raywood 	Greater Bendigo C  
+Raywood 	Loddon S  
+Red Bluff 	Indigo S  
+Red Cliffs 	Mildura RC  
+Red Hill 	Mornington Peninsula S  
+Red Hill South 	Mornington Pen S  
+Red Lion 	Central Goldfields S  
+Redan 	Ballarat C  
+Redbank 	Northern Grampians S  
+Redbank 	Pyrenees S  
+Redcastle 	Campaspe S  
+Redcastle 	Greater Bendigo C  
+Redesdale 	Greater Bendigo C  
+Redesdale 	Mount Alexander S  
+Reedy Creek 	East Gippsland S  
+Reedy Creek 	Mitchell S  
+Reedy Dam 	Buloke S  
+Reedy Lake 	Gannawarra S  
+Reefton 	Yarra Ranges S  
+Regent West 	Darebin C  
+Research 	Nillumbik S  
+Reservoir 	Darebin C  
+Reynard 	Mansfield S  
+Reynard 	Wellington S  
+Rheola 	Loddon S  
+Rhyll 	Bass Coast S  
+Rhymney 	Ararat RC  
+Riachella 	Northern Grampians S  
+Rich Avon 	Buloke S  
+Rich Avon East 	Nthn Grampians S  
+Rich Avon West 	Nthn Grampians S  
+Rich Avon West 	Yarriambiack S  
+Richmond 	Yarra C  
+Richmond Plains 	Buloke S  
+Richmond Plains 	Loddon S  
+Riddells Creek 	Macedon Ranges S  
+Riggs Creek 	Strathbogie S  
+Ringwood 	Maroondah C  
+Ringwood East 	Maroondah C  
+Ringwood North 	Manningham C  
+Ringwood North 	Maroondah C  
+Ripplebrook 	Baw Baw S  
+Rippleside 	Greater Geelong C  
+Ripponhurst 	Moyne S  
+Ripponlea 	Port Phillip C  
+Riverside 	Horsham RC  
+Riverslea 	Wellington S  
+Robertsons Beach 	Wellington S  
+Robinvale 	Swan Hill RC  
+Rochester 	Campaspe S  
+Rochford 	Macedon Ranges S  
+Rockbank 	Melton S  
+Rocklands 	Southern Grampians S  
+Rocklyn 	Hepburn S  
+Rocky Point 	Ararat RC  
+Rodborough 	Central Goldfields S  
+Rokeby 	Baw Baw S  
+Rokewood 	Golden Plains S  
+Rokewood Junction 	Golden Plains S  
+Romsey 	Macedon Ranges S  
+Rosanna 	Banyule C  
+Rose River 	Wangaratta RC  
+Rosebery 	Yarriambiack S  
+Rosebrook 	Moyne S  
+Rosebud 	Mornington Peninsula S  
+Rosebud West 	Mornington Pen S  
+Rosedale 	Wellington S  
+Roses Gap (-)	Northern Grampians S  
+Rosewhite 	Alpine S  
+Roslynmead 	Campaspe S  
+Ross Creek 	Golden Plains S  
+Rossbridge 	Ararat RC  
+Rostron 	Northern Grampians S  
+Rowsley 	Moorabool S  
+Rowville 	Knox C  
+Roxburgh Park 	Hume C  
+Rubicon 	Murrindindi S  
+Ruby 	South Gippsland S  
+Ruffy 	Murrindindi S  
+Ruffy 	Strathbogie S  
+Running Creek 	Alpine S  
+Runnymede 	Campaspe S  
+Rupanyup 	Northern Grampians S  
+Rupanyup 	Yarriambiack S  
+Rushworth 	Campaspe S  
+Russells Bridge 	Golden Plains S  
+Rutherglen 	Indigo S  
+Ryanston 	Bass Coast S  
+Rye 	Mornington Peninsula S  
+Rythdale 	Cardinia S  
+Safety Beach 	Mornington Pen S  
+Sailors Falls 	Hepburn S  
+Sailors Gully 	Greater Bendigo C  
+Sailors Hill 	Hepburn S  
+Saint Helena 	Banyule C  
+Sale 	Wellington S  
+Sale East 	Wellington S  
+Salisbury West 	Loddon S  
+Samaria 	Benalla RC  
+San Remo 	Bass Coast S  
+Sandford 	Glenelg S  
+Sandhill Lake 	Gannawarra S  
+Sandhurst 	Frankston C  
+Sandhurst East 	Greater Bendigo C  
+Sandon 	Hepburn S  
+Sandon 	Mount Alexander S  
+Sandown Village 	Gr Dandenong C  
+Sandringham 	Bayside C  
+Sandy Creek 	Indigo S  
+Sandy Point 	South Gippsland S  
+Sargood 	Wellington S  
+Sarsfield 	East Gippsland S  
+Sassafras 	Knox C  
+Sassafras 	Yarra Ranges S  
+Sawmill Settlement 	Mansfield S  
+Scarsdale 	Golden Plains S  
+Scoresby 	Knox C  
+Scotchmans Lead 	Ballarat C  
+Scotsburn 	Ballarat C  
+Scotsburn 	Moorabool S  
+Scotts Creek 	Corangamite S  
+Sea Lake 	Buloke S  
+Seabrook 	Hobsons Bay C  
+Seacombe 	Wellington S  
+Seaford 	Frankston C  
+Seaholme 	Hobsons Bay C  
+Seaspray 	Wellington S  
+Seaton 	Wellington S  
+Seaview 	Baw Baw S  
+Sebastian 	Greater Bendigo C  
+Sebastian 	Loddon S  
+Sebastopol 	Ballarat C  
+Seddon 	Maribyrnong C  
+Sedgwick 	Greater Bendigo C  
+Selby 	Yarra Ranges S  
+Selwyn 	Alpine S  
+Separation Creek 	Colac Otway S  
+Serpentine 	Loddon S  
+Serviceton 	West Wimmera S  
+Seville 	Yarra Ranges S  
+Seville East 	Yarra Ranges S  
+Seymour 	Mitchell S  
+Shady Creek 	Baw Baw S  
+Shannonvale 	East Gippsland S  
+Shays Flat 	Northern Grampians S  
+Shays Flat 	Pyrenees S  
+She Oaks 	Golden Plains S  
+Sheans Creek 	Strathbogie S  
+Sheep Hills 	Yarriambiack S  
+Shelbourne 	Greater Bendigo C  
+Shelbourne 	Loddon S  
+Shelbourne 	Mount Alexander S  
+Shelford 	Golden Plains S  
+Shelley 	Towong S  
+Shepherds Flat 	Hepburn S  
+Shepparton 	Greater Shepparton C  
+Shepparton East 	Gr Shepparton C  
+Shepparton North 	Gr Shepparton C  
+Sherbrooke 	Yarra Ranges S  
+Shirley 	Pyrenees S  
+Shoreham 	Mornington Peninsula S  
+Sidonia 	Macedon Ranges S  
+Silvan 	Yarra Ranges S  
+Silverleaves 	Bass Coast S  
+Simmie 	Campaspe S  
+Simpson 	Colac Otway S  
+Simpson 	Corangamite S  
+Simpsons Creek 	East Gippsland S  
+Simson 	Central Goldfields S  
+Skenes Creek 	Colac Otway S  
+Skenes Creek North 	Colac Otway S  
+Skibo 	Corangamite S  
+Skinners Flat 	Loddon S  
+Skipton 	Corangamite S  
+Skye 	Frankston C  
+Slaty Creek 	Loddon S  
+Slaty Creek 	Northern Grampians S  
+Smeaton 	Hepburn S  
+Smiths Beach 	Bass Coast S  
+Smiths Gully 	Nillumbik S  
+Smokey Town 	Hepburn S  
+Smoko 	Alpine S  
+Smythes Creek 	Ballarat C  
+Smythes Creek 	Golden Plains S  
+Smythesdale 	Golden Plains S  
+Snake Island 	Wellington S  
+Snake Valley 	Pyrenees S  
+Soldiers Hill 	Ballarat C  
+Somers 	Mornington Peninsula S  
+Somerton 	Hume C  
+Somerville 	Mornington Peninsula S  
+Sorrento 	Mornington Peninsula S  
+South Melbourne 	Port Phillip C  
+South Yarra 	Melbourne C  
+South Yarra 	Stonnington C  
+Southbank 	Melbourne C  
+Southbank 	Port Phillip C  
+Southern Cross 	Moyne S  
+Sovereign Hill 	Ballarat C  
+Spargo Creek 	Moorabool S  
+Specimen Hill 	Greater Bendigo C  
+Speed 	Yarriambiack S  
+Speewa 	Swan Hill RC  
+Spotswood 	Hobsons Bay C  
+Spring Gully 	Greater Bendigo C  
+Spring Hill 	Hepburn S  
+Spring Hill 	Macedon Ranges S  
+Springbank 	Moorabool S  
+Springdallah 	Golden Plains S  
+Springfield 	Buloke S  
+Springfield 	Macedon Ranges S  
+Springhurst 	Wangaratta RC  
+Springmount 	Hepburn S  
+Springvale 	Gr Dandenong C  
+Springvale South 	Gr Dandenong C  
+St Albans 	Brimbank C  
+St Albans Park 	Greater Geelong C  
+St Andrews 	Nillumbik S  
+St Andrews Beach 	Mornington Pen S  
+St Arnaud 	Northern Grampians S  
+St Arnaud East 	Nthn Grampians S  
+St Arnaud North 	Nthn Grampians S  
+St Clair 	Bass Coast S  
+St Germains 	Greater Shepparton C  
+St Helens 	Moyne S  
+St Helens Plains 	Horsham RC  
+St James 	Moira S  
+St Kilda 	Port Phillip C  
+St Kilda East 	Glen Eira C  
+St Kilda East 	Port Phillip C  
+St Kilda West 	Port Phillip C  
+St Leonards 	Greater Geelong C  
+Staceys Bridge 	Wellington S  
+Staffordshire Reef 	Golden Plains S  
+Staghorn Flat 	Indigo S  
+Staghorn Flat 	Wodonga RC  
+Stanhope 	Campaspe S  
+Stanhope South 	Gr Shepparton C  
+Stanley 	Indigo S  
+Staughton Vale 	Greater Geelong C  
+Stavely 	Ararat RC  
+Stawell 	Northern Grampians S  
+Steels Creek 	Yarra Ranges S  
+Steiglitz 	Golden Plains S  
+Stewarton 	Benalla RC  
+Stewarton 	Greater Shepparton C  
+Stirling 	East Gippsland S  
+Stockdale 	Wellington S  
+Stockyard Hill 	Pyrenees S  
+Stonehaven 	Golden Plains S  
+Stoneleigh 	Ararat RC  
+Stoneleigh 	Pyrenees S  
+Stony Creek 	Central Goldfields S  
+Stony Creek 	Hepburn S  
+Stony Creek 	South Gippsland S  
+Stonyford 	Colac Otway S  
+Stonyford 	Corangamite S  
+Stradbroke 	Wellington S  
+Strangways 	Hepburn S  
+Strangways 	Mount Alexander S  
+Straten 	Buloke S  
+Stratford 	Wellington S  
+Strath Creek 	Murrindindi S  
+Strathallan 	Campaspe S  
+Strathbogie 	Benalla RC  
+Strathbogie 	Mansfield S  
+Strathbogie 	Strathbogie S  
+Strathdale 	Greater Bendigo C  
+Strathdownie 	Glenelg S  
+Strathewen 	Nillumbik S  
+Strathfieldsaye 	Greater Bendigo C  
+Strathkellar 	Southern Grampians S  
+Strathlea 	Central Goldfields S  
+Strathlea 	Mount Alexander S  
+Strathmerton 	Moira S  
+Strathmore 	Moonee Valley C  
+Strathmore Heights 	Moonee Valley C  
+Streatham 	Ararat RC  
+Streatham 	Pyrenees S  
+Strzelecki 	Baw Baw S  
+Strzelecki 	South Gippsland S  
+Stuart Mill 	Northern Grampians S  
+Studfield 	Knox C  
+Sugarloaf 	Colac Otway S  
+Sugarloaf Creek 	Mitchell S  
+Suggan Buggan 	East Gippsland S  
+Sulky 	Hepburn S  
+Summerfield 	Greater Bendigo C  
+Summerlands 	Bass Coast S  
+Sunbury 	Hume C  
+Sunday Creek 	Mitchell S  
+Sunderland Bay 	Bass Coast S  
+Sunnycliffs 	Mildura RC  
+Sunset Strip 	Bass Coast S  
+Sunshine 	Brimbank C  
+Sunshine North 	Brimbank C  
+Sunshine West 	Brimbank C  
+Surf Beach 	Bass Coast S  
+Surrey Hills 	Boroondara C  
+Surrey Hills 	Whitehorse C  
+Sutherland 	Northern Grampians S  
+Sutherlands Creek 	Golden Plains S  
+Sutton 	Buloke S  
+Sutton Grange 	Mount Alexander S  
+Swan Bay 	Greater Geelong C  
+Swan Hill 	Swan Hill RC  
+Swan Hill West 	Swan Hill RC  
+Swan Island 	Queenscliffe B  
+Swan Marsh 	Colac Otway S  
+Swan Reach 	East Gippsland S  
+Swanpool 	Benalla RC  
+Swanwater 	Northern Grampians S  
+Swanwater West 	Nthn Grampians S  
+Swifts Creek 	East Gippsland S  
+Sydenham 	Brimbank C  
+Sylvaterre 	Loddon S  
+Syndal 	Monash C  
+Tabberabbera 	East Gippsland S  
+Tabilk 	Strathbogie S  
+Tabor 	Southern Grampians S  
+Taggerty 	Murrindindi S  
+Tahara 	Glenelg S  
+Tahara 	Southern Grampians S  
+Tahara Bridge 	Glenelg S  
+Tahara West 	Glenelg S  
+Talbot 	Central Goldfields S  
+Talgarno 	Towong S  
+Tallandoon 	Towong S  
+Tallangatta 	Towong S  
+Tallangatta East 	Towong S  
+Tallangatta South 	Towong S  
+Tallangatta Valley 	Towong S  
+Tallarook 	Mitchell S  
+Tallygaroopna 	Gr Shepparton C  
+Tambo Crossing 	East Gippsland S  
+Tambo Upper 	East Gippsland S  
+Tamboon 	East Gippsland S  
+Tamboritha 	Wellington S  
+Taminick 	Benalla RC  
+Tamleugh 	Strathbogie S  
+Tamleugh North 	Gr Shepparton C  
+Tandarook 	Corangamite S  
+Tandarra 	Loddon S  
+Tangambalanga 	Indigo S  
+Tanjil 	Baw Baw S  
+Tanjil Bren 	Baw Baw S  
+Tanjil South 	Baw Baw S  
+Tanjil South 	Latrobe C  
+Tantaraboo 	Macedon Ranges S  
+Tanwood 	Pyrenees S  
+Tanybryn 	Colac Otway S  
+Taradale 	Hepburn S  
+Taradale 	Macedon Ranges S  
+Taradale 	Mount Alexander S  
+Tarcombe 	Mitchell S  
+Tarcombe 	Strathbogie S  
+Tarilta 	Hepburn S  
+Tarilta 	Mount Alexander S  
+Taripta 	Campaspe S  
+Tarnagulla 	Loddon S  
+Tarneit 	Wyndham C  
+Tarnook 	Benalla RC  
+Taroon 	Corangamite S  
+Taroon 	Moyne S  
+Tarra Valley 	Wellington S  
+Tarranyurk 	Hindmarsh S  
+Tarraville 	Wellington S  
+Tarrawarra 	Yarra Ranges S  
+Tarrawingee 	Wangaratta RC  
+Tarrayoukyan 	Sthn Grampians S  
+Tarrayoukyan 	West Wimmera S  
+Tarrengower 	Mount Alexander S  
+Tarrenlea 	Southern Grampians S  
+Tarrington 	Southern Grampians S  
+Tarrone 	Moyne S  
+Tarwin 	South Gippsland S  
+Tarwin Lower 	South Gippsland S  
+Tatong 	Benalla RC  
+Tatong 	Wangaratta RC  
+Tatura 	Greater Shepparton C  
+Tatura East 	Greater Shepparton C  
+Tatyoon 	Ararat RC  
+Tawonga 	Alpine S  
+Tawonga South 	Alpine S  
+Taylor Bay 	Murrindindi S  
+Taylors Hill 	Melton S  
+Taylors Lakes 	Brimbank C  
+Teal Point 	Gannawarra S  
+Tecoma 	Yarra Ranges S  
+Teddywaddy 	Buloke S  
+Teddywaddy West 	Buloke S  
+Teesdale 	Golden Plains S  
+Telangatuk East 	Horsham RC  
+Telford 	Moira S  
+Telopea Downs 	West Wimmera S  
+Templestowe 	Manningham C  
+Templestowe Lower 	Manningham C  
+Tempy 	Mildura RC  
+Tempy 	Yarriambiack S  
+Tenby Point 	Bass Coast S  
+Tenby Point 	Cardinia S  
+Tennyson 	Campaspe S  
+Terang 	Corangamite S  
+Terang 	Moyne S  
+Terip Terip 	Murrindindi S  
+Terrappee 	Buloke S  
+Terrappee 	Loddon S  
+Terrick Terrick 	Loddon S  
+Terrick Terrick East 	Campaspe S  
+Terrick Terrick East 	Loddon S  
+Terrick Terrick West 	Campaspe S  
+Tesbury 	Corangamite S  
+Tetoora Road 	Baw Baw S  
+Thalia 	Buloke S  
+Thaloo 	Baw Baw S  
+The Basin 	Knox C  
+The Cove 	Moyne S  
+The Fingerboards 	East Gippsland S  
+The Gurdies 	Bass Coast S  
+The Heart 	Wellington S  
+The Honeysuckles 	Wellington S  
+The Patch 	Yarra Ranges S  
+The Settlement 	Campaspe S  
+The Sisters 	Moyne S  
+Thologolong 	Towong S  
+Thomastown 	Whittlesea C  
+Thomson 	Baw Baw S  
+Thomson 	Greater Geelong C  
+Thoona 	Benalla RC  
+Thornbury 	Darebin C  
+Thornton 	Murrindindi S  
+Thorpdale 	Baw Baw S  
+Thorpdale 	South Gippsland S  
+Thorpdale South 	Baw Baw S  
+Thorpdale South 	South Gippsland S  
+Thowgla Valley 	Towong S  
+Three Bridges 	Yarra Ranges S  
+Tidal River 	South Gippsland S  
+Timbarra 	East Gippsland S  
+Timboon 	Corangamite S  
+Timboon West 	Corangamite S  
+Timmering 	Campaspe S  
+Timor 	Central Goldfields S  
+Timor West 	Central Goldfields S  
+Tinamba 	Wellington S  
+Tinambra West 	Wellington S  
+Tintaldra 	Towong S  
+Titybong 	Buloke S  
+Titybong 	Gannawarra S  
+Tol Tol 	Swan Hill RC  
+Tolmie 	Benalla RC  
+Tolmie 	Mansfield S  
+Tolmie 	Wangaratta RC  
+Tom Groggin 	East Gippsland S  
+Tom Groggin 	Towong S  
+Tongala 	Campaspe S  
+Tonghi Creek 	East Gippsland S  
+Tongio 	East Gippsland S  
+Tonimbuk 	Cardinia S  
+Tooan 	Horsham RC  
+Tooborac 	Mitchell S  
+Toolamba 	Greater Shepparton C  
+Toolamba East 	Gr Shepparton C  
+Toolamba West 	Gr Shepparton C  
+Toolangi 	Murrindindi S  
+Toolangi 	Yarra Ranges S  
+Toolern Vale 	Macedon Ranges S  
+Toolern Vale 	Melton S  
+Toolleen 	Campaspe S  
+Toolleen 	Greater Bendigo C  
+Toolome 	Wellington S  
+Toolondo 	Horsham RC  
+Toolong 	Moyne S  
+Toombon 	Baw Baw S  
+Toongabbie 	Baw Baw S  
+Toongabbie 	Latrobe C  
+Toongabbie 	Wellington S  
+Toora 	South Gippsland S  
+Toora North 	South Gippsland S  
+Toora North 	Wellington S  
+Tooradin 	Cardinia S  
+Tooradin 	Casey C  
+Toorak 	Stonnington C  
+Toorloo Arm 	East Gippsland S  
+Toorongo 	Baw Baw S  
+Toorongo 	Yarra Ranges S  
+Tootgarook 	Mornington Peninsula S  
+Torquay 	Surf Coast S  
+Torrita 	Mildura RC  
+Torrumbarry 	Campaspe S  
+Tostaree 	East Gippsland S  
+Tottenham 	Maribyrnong C  
+Tottington 	Northern Grampians S  
+Tourello 	Ballarat C  
+Towan 	Swan Hill RC  
+Towaninny 	Buloke S  
+Towaninny 	Gannawarra S  
+Towaninny South 	Buloke S  
+Tower Hill 	Moyne S  
+Towong 	Towong S  
+Towong Lower 	Towong S  
+Trafalgar 	Baw Baw S  
+Trafalgar East 	Baw Baw S  
+Trafalgar South 	Baw Baw S  
+Tragowel 	Gannawarra S  
+Traralgon 	Latrobe C  
+Traralgon East 	Latrobe C  
+Traralgon South 	Latrobe C  
+Travancore 	Moonee Valley C  
+Trawalla 	Pyrenees S  
+Trawool 	Mitchell S  
+Trawool 	Murrindindi S  
+Traynors Lagoon 	Nthn Grampians S  
+Tremont 	Yarra Ranges S  
+Trentham 	Hepburn S  
+Trentham 	Moorabool S  
+Trentham East 	Hepburn S  
+Trentham East 	Macedon Ranges S  
+Tresco 	Swan Hill RC  
+Tresco West 	Swan Hill RC  
+Trida 	Baw Baw S  
+Trida 	South Gippsland S  
+Truganina 	Melton S  
+Truganina 	Wyndham C  
+Tubbut 	East Gippsland S  
+Tudor 	Swan Hill RC  
+Tuerong 	Mornington Peninsula S  
+Tulkara 	Northern Grampians S  
+Tullamarine 	Brimbank C  
+Tullamarine 	Hume C  
+Tullamarine 	Moreland C  
+Tungamah 	Moira S  
+Turoar 	Swan Hill RC  
+Turriff 	Yarriambiack S  
+Turriff East 	Buloke S  
+Turtons Creek 	South Gippsland S  
+Tutye 	Mildura RC  
+Tyaak 	Mitchell S  
+Tyabb 	Mornington Peninsula S  
+Tyers 	Latrobe C  
+Tylden 	Hepburn S  
+Tylden 	Macedon Ranges S  
+Tylden South 	Hepburn S  
+Tynong 	Cardinia S  
+Tynong North 	Cardinia S  
+Tyntynder 	Swan Hill RC  
+Tyntynder South 	Swan Hill RC  
+Tyrendarra 	Glenelg S  
+Tyrendarra 	Moyne S  
+Tyrendarra East 	Moyne S  
+Tyrrell 	Buloke S  
+Tyrrell 	Swan Hill RC  
+Tyrrell Downs 	Buloke S  
+Tysons Reef 	Greater Bendigo C  
+Ullina 	Hepburn S  
+Ullswater 	West Wimmera S  
+Ultima 	Swan Hill RC  
+Ultima East 	Swan Hill RC  
+Ulupna 	Moira S  
+Undera 	Greater Shepparton C  
+Underbool 	Mildura RC  
+Uplands 	East Gippsland S  
+Upotipotpon 	Strathbogie S  
+Upper Ferntree Gully 	Knox C  
+Upper Ferntree Gully 	Yarra Ranges S  
+Upper Gundowring 	Alpine S  
+Upper Plenty 	Mitchell S  
+Upper Ryans Creek 	Benalla RC  
+Upton Hill 	Strathbogie S  
+Upwey 	Yarra Ranges S  
+Valencia Creek 	Wellington S  
+Vasey 	Southern Grampians S  
+Vaughan 	Mount Alexander S  
+Vectis 	Horsham RC  
+Ventnor 	Bass Coast S  
+Venus Bay 	South Gippsland S  
+Vermont 	Maroondah C  
+Vermont 	Whitehorse C  
+Vermont South 	Whitehorse C  
+Vervale 	Cardinia S  
+Vesper 	Baw Baw S  
+Victoria Point 	Sthn Grampians S  
+Victoria Valley 	Sthn Grampians S  
+Viewbank 	Banyule C  
+Vinifera 	Swan Hill RC  
+Violet Town 	Greater Shepparton C  
+Violet Town 	Strathbogie S  
+Vite Vite 	Corangamite S  
+Vite Vite North 	Corangamite S  
+W Tree 	East Gippsland S  
+Waaia 	Moira S  
+Waanyarra 	Loddon S  
+Waarre 	Corangamite S  
+Wabonga 	Wangaratta RC  
+Waggarandall 	Moira S  
+Wahgunyah 	Indigo S  
+Wahring 	Strathbogie S  
+Wail 	Horsham RC  
+Wairewa 	East Gippsland S  
+Waitchie 	Swan Hill RC  
+Wal Wal 	Northern Grampians S  
+Waldara 	Wangaratta RC  
+Walhalla 	Baw Baw S  
+Walhalla 	Wellington S  
+Walhalla East 	Wellington S  
+Walkerville 	South Gippsland S  
+Walkerville South 	Sth Gippsland S  
+Wallace 	Moorabool S  
+Wallacedale 	Glenelg S  
+Wallacedale 	Moyne S  
+Wallagaraugh 	East Gippsland S  
+Wallaloo 	Northern Grampians S  
+Wallaloo East 	Nthn Grampians S  
+Wallan 	Mitchell S  
+Wallinduc 	Golden Plains S  
+Wallington 	Greater Geelong C  
+Wallup 	Yarriambiack S  
+Walmer 	Mount Alexander S  
+Walpa 	East Gippsland S  
+Walpeup 	Mildura RC  
+Walwa 	Towong S  
+Wanalta 	Campaspe S  
+Wandana Heights 	Gr Geelong C  
+Wandella 	Gannawarra S  
+Wandiligong 	Alpine S  
+Wandin East 	Yarra Ranges S  
+Wandin North 	Yarra Ranges S  
+Wando Bridge 	Glenelg S  
+Wando Vale 	Glenelg S  
+Wando Vale 	Southern Grampians S  
+Wandong 	Mitchell S  
+Wandown 	Swan Hill RC  
+Wangandary 	Benalla RC  
+Wangandary 	Wangaratta RC  
+Wangarabell 	East Gippsland S  
+Wangaratta 	Wangaratta RC  
+Wangaratta East 	Wangaratta RC  
+Wangaratta North 	Wangaratta RC  
+Wangaratta South 	Wangaratta RC  
+Wangoom 	Moyne S  
+Wannon 	Southern Grampians S  
+Wantirna 	Knox C  
+Wantirna South 	Knox C  
+Waranga 	Campaspe S  
+Waranga 	Greater Shepparton C  
+Waranga Shores 	Campaspe S  
+Waratah Bay 	South Gippsland S  
+Warburton 	Yarra Ranges S  
+Warburton East 	Yarra Ranges S  
+Wareek 	Central Goldfields S  
+Wareek 	Pyrenees S  
+Wargan 	Mildura RC  
+Warmur 	Buloke S  
+Warncoort 	Colac Otway S  
+Warne 	Buloke S  
+Warneet 	Casey C  
+Warrabkook 	Moyne S  
+Warracknabeal 	Yarriambiack S  
+Warragul 	Baw Baw S  
+Warragul South 	Baw Baw S  
+Warragul West 	Baw Baw S  
+Warrak 	Ararat RC  
+Warrandyte 	Manningham C  
+Warrandyte North 	Nillumbik S  
+Warrandyte South 	Manningham C  
+Warranwood 	Maroondah C  
+Warrayure 	Southern Grampians S  
+Warrenbayne 	Benalla RC  
+Warrenheip 	Ballarat C  
+Warrenheip 	Moorabool S  
+Warrenmang 	Pyrenees S  
+Warrion 	Colac Otway S  
+Warrnambool 	Moyne S  
+Warrnambool 	Warrnambool C  
+Warrock 	Glenelg S  
+Warrong 	Moyne S  
+Wartook 	Horsham RC  
+Wartook 	Northern Grampians S  
+Watchem 	Buloke S  
+Watchem West 	Buloke S  
+Watchupga 	Buloke S  
+Waterford 	Wellington S  
+Waterford Park 	Mitchell S  
+Waterholes 	East Gippsland S  
+Waterloo 	Pyrenees S  
+Waterways 	Kingston C  
+Watsonia 	Banyule C  
+Watsonia North 	Banyule C  
+Watsons Creek 	Nillumbik S  
+Wattle Bank 	Bass Coast S  
+Wattle Creek 	Northern Grampians S  
+Wattle Creek 	Pyrenees S  
+Wattle Flat 	Ballarat C  
+Wattle Flat 	Hepburn S  
+Wattle Flat 	Moorabool S  
+Wattle Glen 	Nillumbik S  
+Wattle Hill 	Corangamite S  
+Wattle Park 	Whitehorse C  
+Waubra 	Hepburn S  
+Waubra 	Pyrenees S  
+Waurn Ponds 	Greater Geelong C  
+Waygara 	East Gippsland S  
+Weatherboard 	Ballarat C  
+Wedderburn 	Loddon S  
+Wedderburn Junction 	Loddon S  
+Wee Wee Rup 	Gannawarra S  
+Weeaproinah 	Colac Otway S  
+Weeragua 	East Gippsland S  
+Weering 	Colac Otway S  
+Weerite 	Corangamite S  
+Wehla 	Loddon S  
+Wellsford 	Greater Bendigo C  
+Welshmans Reef 	Mt Alexander S  
+Welshpool 	South Gippsland S  
+Wemen 	Swan Hill RC  
+Wendouree 	Ballarat C  
+Wendouree Village 	Ballarat C  
+Wensleydale 	Surf Coast S  
+Werneth 	Corangamite S  
+Werneth 	Golden Plains S  
+Werona 	Hepburn S  
+Werona 	Mount Alexander S  
+Werribee 	Wyndham C  
+Werribee South 	Wyndham C  
+Werrimull 	Mildura RC  
+Wesburn 	Yarra Ranges S  
+West Creek 	Bass Coast S  
+Westbury 	Baw Baw S  
+Westby 	Gannawarra S  
+Westmeadows 	Hume C  
+Westmere 	Ararat RC  
+Wharparilla 	Campaspe S  
+Wheatsheaf 	Hepburn S  
+Wheelers Hill 	Monash C  
+Whipstick 	Greater Bendigo C  
+Whirily 	Buloke S  
+White Hills 	Greater Bendigo C  
+Whiteheads Creek 	Mitchell S  
+Whitelaw 	South Gippsland S  
+Whitfield 	Wangaratta RC  
+Whitlands 	Wangaratta RC  
+Whittington 	Greater Geelong C  
+Whittlesea 	Whittlesea C  
+Whoorel 	Colac Otway S  
+Whorouly 	Wangaratta RC  
+Whorouly East 	Wangaratta RC  
+Whorouly South 	Wangaratta RC  
+Whroo 	Campaspe S  
+Whroo 	Strathbogie S  
+Wickliffe 	Ararat RC  
+Wilby 	Moira S  
+Wild Dog Valley 	South Gippsland S  
+Wildwood 	Hume C  
+Wilkur 	Buloke S  
+Wilkur 	Yarriambiack S  
+Willangie 	Buloke S  
+Willatook 	Moyne S  
+Willaura 	Ararat RC  
+Willenabrina 	Yarriambiack S  
+Williams Landing 	Wyndham C  
+Williamstown 	Hobsons Bay C  
+Williamstown North 	Hobsons Bay C  
+Willow Grove 	Baw Baw S  
+Willowmavin 	Mitchell S  
+Willung 	Wellington S  
+Willung South 	Wellington S  
+Wilsons Hill 	Greater Bendigo C  
+Wilsons Promontory 	Sth Gippsland S  
+Wimbleton Heights 	Bass Coast S  
+Winchelsea 	Colac Otway S  
+Winchelsea 	Surf Coast S  
+Winchelsea South 	Surf Coast S  
+Windermere 	Ballarat C  
+Windsor 	Port Phillip C  
+Windsor 	Stonnington C  
+Wingan River 	East Gippsland S  
+Wingeel 	Colac Otway S  
+Wingeel 	Golden Plains S  
+Winjallok 	Northern Grampians S  
+Winlaton 	Swan Hill RC  
+Winnambool 	Swan Hill RC  
+Winnap 	Glenelg S  
+Winnindoo 	Wellington S  
+Winslow 	Moyne S  
+Winton 	Benalla RC  
+Winton North 	Benalla RC  
+Wirrate 	Strathbogie S  
+Wiseleigh 	East Gippsland S  
+Wodonga 	Wodonga RC  
+Wodonga West 	Wodonga RC  
+Wollert 	Whittlesea C  
+Wombat Creek 	East Gippsland S  
+Wombelano 	West Wimmera S  
+Won Wron 	Wellington S  
+Wonga 	South Gippsland S  
+Wonga Park 	Manningham C  
+Wonga Park 	Maroondah C  
+Wongarra 	Colac Otway S  
+Wongungarra 	Alpine S  
+Wongungarra 	Wellington S  
+Wonnangatta 	Alpine S  
+Wonthaggi 	Bass Coast S  
+Wonthaggi North 	Bass Coast S  
+Wonwondah 	Horsham RC  
+Wonyip 	South Gippsland S  
+Wonyip 	Wellington S  
+Wood Wood 	Swan Hill RC  
+Woodend 	Macedon Ranges S  
+Woodend North 	Macedon Ranges S  
+Woodfield 	Mansfield S  
+Woodford 	Moyne S  
+Woodford 	Warrnambool C  
+Woodglen 	East Gippsland S  
+Woodhouse 	Southern Grampians S  
+Woodleigh 	Bass Coast S  
+Woods Point 	Mansfield S  
+Woods Point 	Murrindindi S  
+Woods Point 	Wellington S  
+Woodside 	Wellington S  
+Woodside Beach 	Wellington S  
+Woodside North 	Wellington S  
+Woodstock 	Whittlesea C  
+Woodstock On Loddon 	Loddon S  
+Woodstock West 	Loddon S  
+Woodvale 	Greater Bendigo C  
+Woohlpooer 	Southern Grampians S  
+Wool Wool 	Colac Otway S  
+Wool Wool 	Corangamite S  
+Woolamai 	Bass Coast S  
+Woolenook 	Wellington S  
+Woolshed 	Indigo S  
+Woolshed Flat 	Loddon S  
+Woolsthorpe 	Moyne S  
+Woomelang 	Yarriambiack S  
+Wooragee 	Indigo S  
+Woorarra 	Wellington S  
+Woorarra West 	South Gippsland S  
+Woori Yallock 	Yarra Ranges S  
+Woorinen 	Swan Hill RC  
+Woorinen North 	Swan Hill RC  
+Woorinen South 	Swan Hill RC  
+Woorndoo 	Ararat RC  
+Woorndoo 	Moyne S  
+Wooroonook 	Buloke S  
+Woosang 	Buloke S  
+Woosang 	Loddon S  
+Wootong Vale 	Sthn Grampians S  
+Worrowing 	Wellington S  
+Wrathung 	Wellington S  
+Wrixen 	Wellington S  
+Wroxham 	East Gippsland S  
+Wuk Wuk 	East Gippsland S  
+Wulgulmerang 	East Gippsland S  
+Wulgulmerang East 	East Gipps S  
+Wulgulmerang West 	East Gippsl S  
+Wunghnu 	Moira S  
+Wurdiboluc 	Surf Coast S  
+Wurruk 	Wellington S  
+Wy Yung 	East Gippsland S  
+Wycheproof 	Buloke S  
+Wycheproof South 	Buloke S  
+Wychitella 	Loddon S  
+Wychitella North 	Loddon S  
+Wye River 	Colac Otway S  
+Wyelangta 	Colac Otway S  
+Wyndham Vale 	Wyndham C  
+Wyperfield National Park   Yarriambiack S  
+Wyuna 	Campaspe S  
+Wyuna 	Greater Shepparton C  
+Wyuna East 	Campaspe S  
+Yaapeet 	Yarriambiack S  
+Yabba North 	Moira S  
+Yabba South 	Moira S  
+Yackandandah 	Indigo S  
+Yalca 	Moira S  
+Yallambie 	Banyule C  
+Yalla-Y-Poora 	Ararat RC  
+Yalla-Y-Poora 	Pyrenees S  
+Yallourn 	Latrobe C  
+Yallourn North 	Baw Baw S  
+Yallourn North 	Latrobe C  
+Yalmy 	East Gippsland S  
+Yambuk 	Moyne S  
+Yambuna 	Campaspe S  
+Yan Yean 	Nillumbik S  
+Yan Yean 	Whittlesea C  
+Yanac 	Hindmarsh S  
+Yanakie 	South Gippsland S  
+Yando 	Loddon S  
+Yandoit 	Hepburn S  
+Yandoit Hills 	Mount Alexander S  
+Yangery 	Moyne S  
+Yangery 	Warrnambool C  
+Yangoura 	Wellington S  
+Yannathan 	Cardinia S  
+Yapeen 	Mount Alexander S  
+Yarck 	Murrindindi S  
+Yarpturk 	Moyne S  
+Yarra Glen 	Yarra Ranges S  
+Yarra Junction 	Yarra Ranges S  
+Yarraberb 	Loddon S  
+Yarragon 	Baw Baw S  
+Yarragon South 	Baw Baw S  
+Yarram 	Wellington S  
+Yarrambat 	Nillumbik S  
+Yarraville 	Maribyrnong C  
+Yarrawalla 	Loddon S  
+Yarrawonga 	Moira S  
+Yarroweyah 	Moira S  
+Yarrunga 	Wangaratta RC  
+Yarto 	Yarriambiack S  
+Yatchaw 	Southern Grampians S  
+Yawong Hills 	Buloke S  
+Yea 	Murrindindi S  
+Yellingbo 	Yarra Ranges S  
+Yelta 	Mildura RC  
+Yendon 	Moorabool S  
+Yeo 	Colac Otway S  
+Yeodene 	Colac Otway S  
+Yering 	Yarra Ranges S  
+Yeungroon 	Buloke S  
+Yeungroon East 	Buloke S  
+Yeungroon East 	Loddon S  
+Yielima 	Moira S  
+Yinnar 	Latrobe C  
+Yinnar South 	Latrobe C  
+York Plains (-)	Northern Grampians S  
+Youanmite 	Moira S  
+Youarang 	Moira S  
+Yulecart 	Southern Grampians S  
+Yundool 	Moira S  
+Yuroke 	Hume C  
+Yuulong 	Colac Otway S  
+Yuulong 	Corangamite S  
+Zeerust 	Greater Shepparton C  
+Zumsteins 	Northern Grampians S  
